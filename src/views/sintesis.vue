@@ -3,15 +3,19 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Con el diagrama de actividades se termina la descripción de las tres técnicas usadas para la especificación y el análisis de requisitos, como se pudo analizar cada una de las técnicas nos brinda características para lograr representar gráficamente y de una forma clara, los requisitos que un usuario necesita poder cumplir satisfactoriamente con las solicitudes de los clientes y usuarios, por otro lado se pueden usar todas las técnicas en una especificación y análisis de requisitos si se ve la necesidad.
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    p.mb-4 Blockchain es un libro mayor, compartido e inmutable para registrar transacciones, rastrear activos y generar confianza. Un activo puede ser tangible (una casa, un auto, dinero en efectivo, terrenos) o intangible (propiedad intelectual, patentes, derechos de autor, marcas). Prácticamente cualquier cosa de valor puede ser rastreada y comercializada en una red de blockchain, reduciendo el riesgo y los costos para todos los involucrados.
+
+    p.mb-4 Los negocios funcionan con información. Cuanto más rápido la obtienen y más exacta es, y mejor. Blockchain es ideal para obtener esa información, puesto que proporciona datos inmediatos, compartidos y completamente transparentes almacenados en un libro mayor distribuido, es inalterable al que únicamente los miembros autorizados tienen acceso. Una red de blockchain puede hacer seguimiento de pedidos, pagos, cuentas, detalles de producción y mucho más. Además, debido a que los usuarios comparten una única fuente fidedigna de información, puede ver todos los detalles de una transacción de principio a fin, lo que le permite generar mayor confianza y eficiencia, además de obtener más oportunidades.
+
+    p.mb-5 Un resumen de lo visto en el presente componente, podrá ser visualizado en el siguiente mapa:
+
 
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/sintesis.png", alt="alt")
       .col-auto
-        a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
