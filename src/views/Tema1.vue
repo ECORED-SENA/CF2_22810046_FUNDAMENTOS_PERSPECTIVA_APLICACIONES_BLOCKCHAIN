@@ -275,7 +275,7 @@
       table
         caption Nota. Adaptado de Grupo Garatú (2018).
         thead(style="border-top: 0px solid;")
-          tr.fondo10
+          tr.cabecara-tabla
             th 
             th.text-white Acceso
             th.text-white Participantes

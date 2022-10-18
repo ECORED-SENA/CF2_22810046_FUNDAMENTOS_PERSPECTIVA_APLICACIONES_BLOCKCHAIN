@@ -54,6 +54,16 @@ figcaption
 .cajon.color-acento-botones
     background-color: #fffae7
 
+.cabecara-tabla
+    background: rgba(0,77,186,1);
+    background: -moz-linear-gradient(top, rgba(0,77,186,1) 0%, rgba(1,138,242,1) 100%);
+    background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(0,77,186,1)), color-stop(100%, rgba(1,138,242,1)));
+    background: -webkit-linear-gradient(top, rgba(0,77,186,1) 0%, rgba(1,138,242,1) 100%);
+    background: -o-linear-gradient(top, rgba(0,77,186,1) 0%, rgba(1,138,242,1) 100%);
+    background: -ms-linear-gradient(top, rgba(0,77,186,1) 0%, rgba(1,138,242,1) 100%);
+    background: linear-gradient(to bottom, rgba(0,77,186,1) 0%, rgba(1,138,242,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#004dba', endColorstr='#018af2', GradientType=0 );
+
 .tema1
   .fondo1
     background-image: url("../assets/curso/tema1/fondo1.png")
@@ -130,16 +140,7 @@ figcaption
       background-image: url("../assets/curso/tema1/fondo9.png")
       //background-color: red
       background-size: 100% 100%
-      background-repeat: no-repeat
-  .fondo10
-    background: rgba(0,77,186,1);
-    background: -moz-linear-gradient(top, rgba(0,77,186,1) 0%, rgba(1,138,242,1) 100%);
-    background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(0,77,186,1)), color-stop(100%, rgba(1,138,242,1)));
-    background: -webkit-linear-gradient(top, rgba(0,77,186,1) 0%, rgba(1,138,242,1) 100%);
-    background: -o-linear-gradient(top, rgba(0,77,186,1) 0%, rgba(1,138,242,1) 100%);
-    background: -ms-linear-gradient(top, rgba(0,77,186,1) 0%, rgba(1,138,242,1) 100%);
-    background: linear-gradient(to bottom, rgba(0,77,186,1) 0%, rgba(1,138,242,1) 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#004dba', endColorstr='#018af2', GradientType=0 );
+      background-repeat: no-repeat  
 
 .tema2
   .fondo1
@@ -199,3 +200,78 @@ figcaption
       //background-color: red
       background-size: 100% 100%
       background-repeat: no-repeat
+.tema4
+  .fondo1
+    position: relative
+    padding-bottom: 1rem
+    .titulo-segundo, p, img, h4, h3
+      position: relative
+    &::before
+      content: ""
+      position: absolute
+      top: 0
+      left: 2.5%
+      width: 134%
+      height: 100%
+      margin: 0 -5rem
+      background-image: url("../assets/curso/tema4/fondo1.png")
+      //background-color: red
+      background-size: 100% 100%
+      background-repeat: no-repeat
+  .fondo2
+    position: relative
+    padding-bottom: 1rem
+    .titulo-segundo, p, img, h4, h3
+      position: relative
+    &::before
+      content: ""
+      position: absolute
+      top: 0
+      left: 2.5%
+      width: 134%
+      height: 100%
+      margin: 0 -5rem
+      background-image: url("../assets/curso/tema4/fondo2.png")
+      //background-color: red
+      background-size: 100% 100%
+      background-repeat: no-repeat
+  .fondo3
+    position: relative
+    padding-bottom: 1rem
+    .titulo-segundo, p, img, h4, h3
+      position: relative
+    &::before
+      content: ""
+      position: absolute
+      top: 0
+      left: 2.5%
+      width: 134%
+      height: 100%
+      margin: 0 -5rem
+      background-image: url("../assets/curso/tema4/fondo3.png")
+      //background-color: red
+      background-size: 100% 100%
+      background-repeat: no-repeat
+  .fondo4
+    background-image: url("../assets/curso/tema1/fondo1.png")
+    background-size: 100% 100%
+    background-repeat: no-repeat
+
+  .slyder-f
+    .horizontal-scroll__wrapper
+      padding-left: 10px
+      padding-right: 10px
+    .horizontal-scroll
+      align-items: stretch
+    .slyder-f__slyde
+      display: flex
+      padding-left: 10px
+      padding-right: 10px
+      padding-bottom: 12px !important
+      padding-top: 10px !important
+
+  .tarjeta1
+    background-color: #f6f6f6
+    border-radius: 19px
+     -webkit-box-shadow: 3px 3px 10px 0px rgba(0,0,0,0.4); 
+    box-shadow: 3px 3px 10px 0px rgba(0,0,0,0.4);
