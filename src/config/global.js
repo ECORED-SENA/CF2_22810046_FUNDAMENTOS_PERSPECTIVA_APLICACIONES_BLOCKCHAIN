@@ -124,6 +124,33 @@ export default {
           },
         ],
       },
+      {
+        nombreRuta: 'tema5',
+        icono: 'far fa-file-alt',
+        numero: '5',
+        titulo: 'Tendencias de blockchain',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '5.1',
+            titulo: 'Visualización de blockchain',
+            hash: 't_5_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '5.2',
+            titulo: 'Modelos de negocio de blockchain',
+            hash: 't_5_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '5.3',
+            titulo: 'Aplicaciones, casos de estudio',
+            hash: 't_5_3',
+          },
+        ],
+      },
     ],
     subMenu: [
       {
