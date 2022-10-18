@@ -176,6 +176,203 @@
         p.mb-0 La forma más fácil para que cooperen es comprando una solución de blockchain e integrándola en su sistema. Esto da lugar a que las compañías del ramo, creen una solución y luego la venden a compañías más grandes.
     .cajon.color-acento-botones.p-4.mb-4
       p.mb-0 La blockchain MediaChain que se vendió a Spotify es un ejemplo perfecto de este tipo de modelo de negocio de blockchain. Se hace para resolver problemas de los derechos de la música dentro de esta industria. Traerá transparencia en el sistema y recompensará más a los creadores de música por usar una plataforma ya establecida.
+
+    .fondo5.pt-5
+      div.p-0.mb-5
+        h4.mb-0.text-white.d-inline.p-3(style="background-color:#1565c0") <b>Cargo de tarifa de red</b>
+
+      .row.justify-content-center.align-items-center.mb-0.position-relative         
+        .col-lg-9.col-12
+          p.mb-4 Otro modelo de negocio blockchain es tener una tarifa de red asociada con a blockchain. Este tipo de modelo de negocio blockchain se aplica tanto a soluciones como Ethereum o Dapps que cobran una pequeña cantidad al usuario por diferentes actividades en la red. Por ejemplo, la red Ethereum cobra a los desarrolladores de Ethereum por hacer que su Dapps esté en viva. Lo mismo es válido para NEO, que tiene una tarifa para la publicación de Dapps.
+          div.d-flex.align-items-center.mb-4
+            div.p-0
+              img.mb-0(style="width:34px" src="@/assets/curso/tema5/vineta1.png")
+            div.px-2
+              p.mb-0 <b>Los usuarios de Ethereum tienen que pagar tarifas de red en forma de GAS.</b>
+        .col-lg-3.col-12
+          img.mb-0(src="@/assets/curso/tema5/img17.svg")
+
+    <br>
+    <br>
+    div.p-0.mb-5
+      h4.mb-0.text-white.d-inline.p-3(style="background-color:#1565c0") <b>Servicios profesionales de Blockchain</b>
+
+    p.mb-4 Estos servicios son proporcionados por compañías de desarrollo líderes en el mercado a empresas nuevas u otras empresas para prepararlos con blockchain. 
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-3.col-10
+        img.mb-lg-0.mb-3(src="@/assets/curso/tema5/img18.svg")
+      .col-lg-9.col-12
+        div.d-flex.align-items-center.mb-4
+            div.p-0
+              img.mb-0(style="width:31px" src="@/assets/curso/tema3/vineta1.png")
+            div.px-2
+              p.mb-0 <b>Por ejemplo, una empresa quiere que alguien construya su proyecto de blockchain personalizado. En ese caso, pueden contratar compañías como Deloitte, IBM u otros para completar el proyecto por ellos.</b>        
+        .cajon.color-acento-botones.p-4.mb-0
+          p.mb-0 La clave aquí es no invertir en hardware, software o la formación de equipos, sino tomar directamente los servicios de las compañías que han perfeccionado el arte del desarrollo de blockchain. También puede encontrar compañías más pequeñas en este mercado, incluso hay empresas que ofrecen esta tecnología, además de servicios relacionados como consultoría, desarrollo de documentos legales o auditoría de la empresa.
+
+    .fondo5.pt-5
+      div.p-0.mb-5
+        h4.mb-0.text-white.d-inline.p-3(style="background-color:#1565c0") <b>Modelo de negocio Blockchain P2P</b>
+
+      p.mb-4 El modelo de negocio P2P ofrece un negocio impulsado de punto a punto, igual que la tecnología blockchain. 
+      .row.justify-content-center.align-items-center.mb-0.position-relative
+        .col-lg-8.col-10
+          div.d-flex.align-items-center.mb-4
+            div.p-0
+              img.mb-0(style="width:34px" src="@/assets/curso/tema5/vineta1.png")
+            div.px-2
+              p.mb-0 Otras características de blockchain son:
+
+          .tarjeta-avatar-b.mb-2
+            .tarjeta-avatar-b__img(style="min-width:138px; max-width:138px")
+              img(style="width: 84px" src='@/assets/curso/tema5/img20.svg' alt='AvatarTop')
+            .tarjeta.tarjeta--azul.tarjeta-sombra(style="padding-left:3%")
+              .p-4.py-3
+                p.mb-0 La cadena de bloques P2P permite a los usuarios finales interactuar entre sí directamente. Esto lo hace parte de casi todos los otros modelos de blockchain que hemos discutido anteriormente. El modelo de negocio P2P se puede monetizar de muchas maneras, incluyendo tokens, BaaS o tarifas de transacción.
+          <br>
+          .tarjeta-avatar-b.mb-0
+            .tarjeta-avatar-b__img(style="min-width:138px; max-width:138px")
+              img(style="width: 84px" src='@/assets/curso/tema5/img21.svg' alt='AvatarTop')
+            .tarjeta.tarjeta--azul.tarjeta-sombra(style="padding-left:3%")
+              .p-4.py-5
+                p.mb-0 IPFS, un sistema de archivos interplanetario aprovecha este modelo de negocio de blockchain. 
+
+          <br>
+          .tarjeta-avatar-b.mb-0
+            .tarjeta-avatar-b__img(style="min-width:138px; max-width:138px")
+              img(style="width: 84px" src='@/assets/curso/tema5/img22.svg' alt='AvatarTop')
+            .tarjeta.tarjeta--azul.tarjeta-sombra(style="padding-left:3%")
+              .p-4.py-3
+                p.mb-0 Filecoin también utiliza el modelo de negocio P2P de blockchain al proporcionar una plataforma para el almacenamiento y el intercambio de datos. Para hacerlo viable, cualquiera que almacene los archivos para otros usuarios obtendrá Filecoins por su contribución. Además, hay un software de minería que permitirá a los usuarios compartir su espacio de almacenamiento no utilizado.
+
+        .col-lg-4.col-12
+          img.mb-0(src="@/assets/curso/tema5/img19.svg")
+      <br>
+    Separador
+    #t_5_3.titulo-segundo.color-acento-contenido
+      h2 5.3 Aplicaciones, casos de estudio.
+
+    .fondo6
+      .row.justify-content-center.align-items-center.mb-5.position-relative
+        .col-12.position-relative
+          img.mb-4(src="@/assets/curso/tema5/img23.png")
+          .row.justify-content-center.align-items-center.mb-5.position-absolute(style="top: 70%")
+            .col-lg-10.col-12.position-relative.fondo7.p-3.px-4
+              p.mb-0 Algunos fundamentos y características del blockchain y a pesar de no presentar su arquitectura una madurez completa, ya se presentan soluciones que día a día vienen brindado soluciones a usuarios y organizaciones a través de aplicaciones y servicios como los descrito anteriormente, a continuación, vamos a estudiar algunas soluciones y su uso dentro del blockchain:
+
+      div.p-0.mb-5
+        h4.mb-0.text-white.d-inline.p-3(style="background-color:#1565c0") <b>Wallets</b>
+      p.mb-4 Quizás el uso más común dentro del blockchain es el de las wallet o billeteras, y es que su función es la de almacenar las criptomonedas, tokens e incluso NFT para salvaguardarlos y poder hacer uso dentro de cualquier red de cadena de bloques, a continuación, vamos a presentar solo algunas billeteras que se pueden utilizar.
+
+      TabsC.color-acento-contenido.position-relative.mb-5 
+        .row.justify-content-evenly.align-items-center.py-3.py-md-4(style="background-color: #ffffff" titulo="Metamask")
+          .col-lg-3.col-10
+            img.mb-lg-0.mb-3(src="@/assets/curso/tema5/img24.png")
+          .col-lg-6.col-12
+            h3.mb-4 Metamask
+            p.mb-0 Disponible en https://metamask.io  Esta es una aplicación para almacenar criptomonedas que se instala como complemento de navegadores web y permite a los usuarios poder interactuar e intercambiar bienes o servicios por criptomonedas o tokens dentro de la red de blockchain fácilmente, esta es una de las billeteras más utilizada por su facilidad, compatibilidad y sencillez de su interfaz, su uso es gratuito, pero se deben considerar las comisiones por las transacciones dentro de la billetera.
+        .row.justify-content-evenly.align-items-center.py-3.py-md-4(style="background-color: #ffffff" titulo="Trust Wallet")
+          .col-lg-3.col-10
+            img.mb-lg-0.mb-3(src="@/assets/curso/tema5/img25.png")
+          .col-lg-6.col-12
+            h3.mb-4 Trust Wallet
+            p.mb-0 Disponible en: https://trustwallet.com Esta aplicación, también es una billetera digital, reconocida por su nivel de seguridad, por ello su nombre, permita conservar criptomonedas, tokens, NFT, también ofrece la capacidad de realizar operaciones de intercambio directamente desde su interfaz, esta aplicación solo está disponible para ser accedida desde dispositivos móviles, a diferencia de metamask que permitía accedes desde el navegador web desde una extensión, también es gratuita, pero se deben tener presente el costo de las transacciones dentro de la billetera.
+        .row.justify-content-evenly.align-items-center.py-3.py-md-4(style="background-color: #ffffff" titulo="Phantom Wallet")
+          .col-lg-3.col-10
+            img.mb-lg-0.mb-3(src="@/assets/curso/tema5/img26.png")
+          .col-lg-6.col-12
+            h3.mb-4 Phantom Wallet
+            p.mb-0 Disponible en: https://phantom.app otra billetera, con gran cantidad de funcionalidades como: custodia de criptomonedas, tokens y NFT, con una ventaja y es la de ser compatible con las redes del proyecto Solana, la cual busca ofrecer una plataforma de servicios mejor que Ethereum, pero a un bajo costo, también es gratuita, pero se deben tener presente el costo de las transacciones dentro de la billetera.
+        .row.justify-content-evenly.align-items-center.py-3.py-md-4(style="background-color: #ffffff" titulo="Oasis Wallet")
+          .col-lg-3.col-10
+            img.mb-lg-0.mb-3(src="@/assets/curso/tema5/img27.png")
+          .col-lg-6.col-12
+            h3.mb-4 Oasis Wallet
+            p.mb-0 Disponible en: https://wallet.oasisprotocol.or. Esta billetera es propia del proyecto Rose, y sus monedas y tokens asociados a sus redes.
+
+    .fondo5.pt-5
+      div.p-0.mb-5
+        h4.mb-0.text-white.d-inline.p-3(style="background-color:#1565c0") <b>Audio y estreaming </b>
+      p.mb-4 Como se ha visto anteriormente, con el blockchain se puede buscar para dar solución a las necesidades de cualquier tipo, y para el caso de los productores musicales y gestores de contenido audiovisual, existen aplicaciones que buscan mejorar la experiencia del usuario, así como de garantizar un mejor rendimiento y monetización de sus recursos.
+
+      .row.justify-content-center.align-items-center.mb-5
+        .col-lg-3.col-10
+          img.mb-lg-0.mb-3(src="@/assets/curso/tema5/img28.png")
+        .col-lg-8.col-12
+          h3.mb-4 Audius
+          p.mb-4 Disponible en: https://audius.co. Es un protocolo de blockchain que permite a los artistas producir registros inmutables y con sello de tiempo de sus productos, asegurados por una red descentralizada de operadores de nodos.
+          p.mb-0 La plataforma se encuentra apalancado en su token $AUDIO, y a partir de sus características y funcionalidades busca premiar a los productores y usuarios de la aplicación por ejemplo: la plataforma premia automáticamente ciertos logros con tokens de AUDIO: las 5 canciones más destacadas de la semana, las 5 canciones más destacadas, las 5 listas de reproducción más destacadas, las 10 aplicaciones más destacadas de la API o las cargas realizadas por quienes tienen cuentas verificadas de Twitter o Instagram.
+
+      .row.justify-content-center.align-items-center.mb-5        
+        .col-lg-8.col-12
+          h3.mb-4 Tetha      
+          p.mb-lg-0.mb-3 Disponible en: https://www.thetatoken.org.  Es una propuesta para ofrecer un protocolo de streaming basado en blockchain descentralizado, a manera de nodos, permitiendo contar con disponibilidad global de los recursos y reduciendo los costos por transferencias de información, para participar en el proyecto, deben de unirte como dueño de un nodo, el cual requiere de token de $THETA para empezar a ofrecer el servicio en tu región.
+        .col-lg-3.col-10
+          img.mb-0(src="@/assets/curso/tema5/img29.png")
+
+    .fondo8.pt-5
+      div.p-0.mb-5
+        h4.mb-5.text-white.d-inline.p-3(style="background-color:#1565c0") <b>Sistemas de Pagos </b>
+      p.mb-5 El blockchain da la opción para permitir el pago por conceptos de servicios, bienes y hasta simplemente envío de activos a través de sus redes, facilitando la independencia del sistema de banca tradicional y de sus complejos requerimientos, actualmente existen varias alternativas para que cualquier sitio web incluya el pago a través de criptomonedas. 
+
+      TabsC.color-acento-contenido.position-relative.mb-4
+        .row.justify-content-evenly.align-items-center.py-3.py-md-4(style="background-color: #ffffff" titulo="BitPay")
+          .col-lg-3.col-10
+            img.mb-lg-0.mb-3(src="@/assets/curso/tema5/img30.png")
+          .col-lg-6.col-12
+            h3.mb-4 BitPay
+            p.mb-0 Disponible en: https://bitpay.co. Ofrece a sus clientes la experiencia de pago sin problemas aceptando varios tipos de criptomonedas, incluidos Bitcoin, Bitcoin Cash, Ethereum y más. También puede aceptar pagos con criptomonedas en persona.
+        .row.justify-content-evenly.align-items-center.py-3.py-md-4(style="background-color: #ffffff" titulo="CoinBase")
+          .col-lg-3.col-10
+            img.mb-lg-0.mb-3(src="@/assets/curso/tema5/img31.png")
+          .col-lg-6.col-12
+            h3.mb-4 CoinBase
+            p.mb-0 Disponible en:  https://commerce.coinbase.com. Esta plataforma conocida por ser un exchangue muy utilizado en el mundo, Acepta criptomonedas a través de Coinbase como Bitcoin, Ethereum, Litecoin y Bitcoin Cash en tu e-Commerce a través de esta pasarela de pago con Coinbase.com.
+        .row.justify-content-evenly.align-items-center.py-3.py-md-4(style="background-color: #ffffff" titulo="CoinGate")
+          .col-lg-3.col-10
+            img.mb-lg-0.mb-3(src="@/assets/curso/tema5/img32.png")
+          .col-lg-6.col-12
+            h3.mb-4 CoinGate
+            p.mb-0 Disponible en: https://coingate.com/es/accept<br>Esta es otra pasarela de pagos a gran escala que brinda su servicio a usuarios de todo el mundo. Tiene más de 50 monedas compatibles y varias soluciones fáciles de implementar en tu e-Commerce.
+        .row.justify-content-evenly.align-items-center.py-3.py-md-4(style="background-color: #ffffff" titulo="Coinpayments")
+          .col-lg-3.col-10
+            img.mb-lg-0.mb-3(src="@/assets/curso/tema5/img33.png")
+          .col-lg-6.col-12
+            h3.mb-4 Coinpayments
+            p.mb-0 Disponible en https://www.coinpayments.net. Coinpayments es una de las pasarelas de pago más grandes del mercado criptográfico. Según su sitio web, ofrece un ecosistema y una liquidación de pagos en tiempo real y fácil de usar, la principal característica es la capacidad de configurar su pasarela de pago facilitando su instalación con plugins y módulos preparados para múltiples e-Commerces, además de eso, Coinpayments funciona en casi todos los países del mundo y también proporciona puntos de venta para transacciones en tiendas físicas mediante criptopagos.
+
+    .fondo5.pt-5
+      div.p-0.mb-5
+        h4.mb-0.text-white.d-inline.p-3(style="background-color:#1565c0") <b>Infraestructura de redes e internet </b>
+      p.mb-5 Otro campo aprovechado por el blockchain es el de la gestión de redes de datos y la gran cantidad de servicios que pueden desprenderse desde esta línea, a continuación, se explorará rápidamente algunos proyectos que pueden ser interesantes para ambientes exigentes y de necesidades especiales.
+
+      .row.justify-content-center.align-items-center.mb-5
+        .col-lg-3.col-10
+          img.mb-lg-0.mb-3(src="@/assets/curso/tema5/img34.png")
+        .col-lg-8.col-12
+          h3.mb-4 PKT Network
+          p.mb-0 Disponible en https://pkt.cash PKT es una plataforma que busca que los usuarios que no utilizan todo su ancho de banda para el acceso a internet, puedan convertirse en ISP, es decir vender servicios de internet y ofrecer servicios descentralizados, reduciendo tiempos, latenticas y permitiendo llegar a lugares con difícil acceso, esta propuesta permite monetizar su servicio y ganar recompensas en tokens PKT, junto a todos los beneficios que ya hemos hablado que hereda del blockchain.          
+
+      .row.justify-content-center.align-items-center.mb-5        
+        .col-lg-8.col-12
+          h3.mb-4 Phala Network
+          p.mb-4 Disponible en https://www.phala.network Phala utiliza la tecnología de Substrate de Polkadot para construir una plataforma blockchain de smarts contracts confidenciales, impulsado por un sistema de producción de bloques que aprovecha el potencial de los CPU y un conjunto de funciones especializadas conocidas como “Enclaves Seguros”. Con esto, Phala Network quiere ofrecer a sus usuarios servicios de informática confidencial y protección de datos.
+          p.mb-lg-0.mb-3 Phala Network actualmente se construye sobre Polkadot y busca hacerse con una de las parachains disponibles en esta red. Además, Phala cuenta con una red canaria de nombre Khala, la cual funciona sobre la red Kusama.
+        .col-lg-3.col-10
+          img.mb-0(src="@/assets/curso/tema5/img34.png")
+
+    .fondo10.pt-5
+      div.p-0.mb-5
+        h4.mb-5.text-white.d-inline.p-3(style="background-color:#1565c0") <b>Desarrolladores</b>
+      p.mb-5 No se podría dejar este campo por fuera, ya que son los creadores de los componentes de la red y es que se han venido incorporando soluciones que pueden ser tenidos en cuenta para fortalecer las cadenas del desarrollo de software seguro agregando soluciones basadas en esta tecnología. 
+
+      .row.justify-content-center.align-items-center.mb-0.position-relative
+        .col-lg-3.col-10
+          img.mb-lg-0.mb-3(src="@/assets/curso/tema5/img35.png")
+        .col-lg-8.col-12
+          h3.mb-4 Chromia
+          p.mb-0 Disponible en: https://chromia.com esta es una plataforma de blockchain que permite a las personas construir aplicaciones descentralizadas en el mundo real, presenta herramientas y soluciones como bases de datos basadas en blockchain.
+
 </template>
 
 <script>
