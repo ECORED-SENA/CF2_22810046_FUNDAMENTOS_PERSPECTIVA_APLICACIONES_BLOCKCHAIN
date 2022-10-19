@@ -194,132 +194,132 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA:',
+        'Arroyo Guardeño, D. Díaz Vico, J. & Hernández Encinas, L. (2019). Blockchain. Editorial CSIC Consejo Superior de Investigaciones Científicas.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/111431 ',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA:',
+        'García-Morales, E. (2018). Luces y sombras sobre el impacto del blockchain en la gestión de documentos. Anuario ThinkEPI, 12, 345–351.',
+      link: 'https://doi.org/10.3145/thinkepi.2018.58  ',
+    },
+    {
+      referencia:
+        'Grupo Garatú (2018).  ¿Qué tipos de Blockchain o Cadenas de Bloques existen?. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'https://grupogaratu.com/cuales-son-los-diferentes-tipos-de-blockchains-o-cadena-de-bloques/',
     },
     {
       referencia:
-        '<em>Harpersbazaar</em>. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
+        'Herrera, J. (2021). Propuesta de un mecanismo de gestión de pagos públicos mediante cadena de bloques (blockchain). Revista de derecho de la Hacienda Pública, ISSN-e 2215-3624, Nº. 17, 2021, págs. 22-39.',
+      link: 'https://dialnet.unirioja.es/servlet/articulo?codigo=8072557  ',
     },
     {
       referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
+        'MINTIC. (2022) Guía de referencia de blockchain para la adopción e implementación de proyectos en el estado colombiano.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'https://gobiernodigital.mintic.gov.co/692/articles-161810_Ley_2052_2020.pdf ',
     },
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA.',
+        'Pacheco Jiménez, M. (2019). De la tecnología blockchain a la economía del token.',
+      link: 'https://dx.doi.org/10.18800/derechopucp.201902.003',
     },
     {
       referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
+        'Shashank (2019).  What are Smart Contracts? A Beginner’s Guide To Smart Contracts.',
+      link: 'https://www.edureka.co/blog/smart-contracts/ ',
+    },
+    {
+      referencia:
+        'Tapscott, D., & Tapscott, A. (2017). La revolución blockchain. Descubre cómo esta nueva tecnología transformará la economía global. ediciones Deusco. séptima edición.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
+        'https://static0planetadelibroscommx.cdnstatics.com/libros_contenido_extra/35/34781_La_revolucion_blockchain.pdf ',
     },
     {
       referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
+        'Tudela, L (2019) Arquitectura blockchain para la securización de dispositivos IOT mediante smart contracts.',
+      link: 'http://castor.det.uvigo.es:8080/xmlui/handle/123456789/345 ',
     },
     {
       referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'Vega Maza, M. (2019). El auge de blockchain y sus posibilidades reales de aplicación en los registros de las administraciones públicas. Revista de Internet, Derecho y Política.',
+      link: 'https://doi.org/10.7238/idp.v0i28.3154 ',
+    },
+    {
+      referencia:
+        'Zhang, R. Xue, R. Liu, L. (2019). Security and Privacy on Blockchain. ACM Comput. Surv. 52, 3, Article 51 (May 2020).',
+      link: 'https://doi.org/10.1145/3316481',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Algoritmo de consenso',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'Es el mecanismo utilizado por una red Blockchain, para determinar el estado correcto de un registro después de realizar una transacción.',
     },
     {
-      termino: '<em>Suftware</em>',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+      termino: 'Arquitectura',
+      significado: 'Sistema de software construido con procesos comunicantes.',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Hash',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'Resultado de la aplicación de un algoritmo matemático a una cadena de información, obteniendo una serie de caracteres con una longitud fija.',
     },
     {
-      termino: '<em>Áectores</em>',
+      termino: 'P2P',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'Son redes conformadas por personas o dispositivos que operan de manera descentralizada y sin responder a un nodo central.',
     },
     {
-      termino: 'Moda',
+      termino: 'Web 3.0',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'La web 3.0 es la tercera generación de servicios de Internet que se centrará en la comprensión y análisis de los datos para proporcionar una web semántica. Su objetivo es el de crear webs más inteligentes, conectadas, abiertas, descentralizadas y soportadas bajo redes de blockchain y adaptadas a cada usuario.',
     },
     {
-      termino: 'Diseña',
+      termino: 'DApp',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'Conocidas también como aplicaciones descentralizadas, son aplicaciones cuyo funcionamiento se basa en una red descentralizada de nodos interactuando unos con otros sin depender de un nodo central.',
     },
     {
-      termino: 'DIseño',
+      termino: 'Gas',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'Es la comisión necesaria para llevar a cabo una transacción en una red de blockchain.',
     },
     {
-      termino: 'Tipología',
+      termino: 'Token',
       significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
+        'Es una unidad de valor que una organización crea para gobernar su modelo de negocio y dar más poder a sus usuarios para interactuar con sus productos, al tiempo que facilita la distribución y reparto de beneficios entre todos sus accionistas.',
     },
     {
-      termino: 'Bidimensional',
+      termino: 'Web 3.0',
       significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
+        'Tercera generación de servicios de Internet para páginas web y aplicaciones. Se centrará en el uso de una comprensión de datos basada en máquinas para proporcionar una Web semántica y datificada. Su objetivo es el de crear sitios web más inteligentes, conectados y abiertos',
     },
     {
-      termino: 'Interés Inferior del menor',
+      termino: 'Whitepaper',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interseccionalidad',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interés superior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Documento que define un proyecto, su estructura, monetización, reglas de negocio y cronograma de desarrollo',
     },
   ],
   complementario: [
     {
-      tema: 'Estrategias para la segmentación de mercados',
+      tema: 'Arquitectura de Blockchain- Conceptos',
       referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'MinTic. (2020) Guía de referencia de blockchain para la adopción e implementación de proyectos en el estado colombiano.',
+      tipo: 'Documento',
+      link:
+        'https://gobiernodigital.mintic.gov.co/692/articles-161810_Ley_2052_2020.pdf',
     },
     {
-      tema: 'Estrategias para la segmentación de mercados',
+      tema:
+        'Capas de la arquitectura (aplicación, ledger o base de datos distribuida, red de igual a igual)',
       referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
-    },
-    {
-      tema: 'Estrategias para la segmentación de mercados',
-      referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Tudela Díaz, I. (2019). Arquitectura blockchain para la securización de dispositivos IOT mediante smart contracts. [Tesis de pregrado,  Ingenieria en Tecnologías de la Telecomunicación. Universidad de Vigo, para optar al título de +',
+      tipo: 'Tesis de grado',
+      link:
+        'http://castor.det.uvigo.es:8080/xmlui/bitstream/handle/123456789/345/TFG%20Iago%20Tudela%20D%c3%adaz.pdf?sequence=1&isAllowed=y ',
     },
   ],
   creditos: {
