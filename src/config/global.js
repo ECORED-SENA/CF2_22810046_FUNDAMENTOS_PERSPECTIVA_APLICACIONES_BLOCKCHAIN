@@ -1,8 +1,8 @@
 export default {
   global: {
-    componenteFormativo: 'Arquitectura de Blockchain',
+    componenteFormativo: 'Arquitectura de <i><i>Blockchain</i></i>',
     descripcionCurso:
-      'Mediante el presente componente, se identifican los elementos que componen una arquitectura de blockchain, así como las diferentes capas que se involucran en una transacción de información, teniendo en cuenta la cadena de bloques que contiene la información, y su vinculación en red.',
+      'Mediante el presente componente, se identifican los elementos que componen una arquitectura de <i>blockchain</i>, así como las diferentes capas que se involucran en una transacción de información, teniendo en cuenta la cadena de bloques que contiene la información, y su vinculación en red.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -58,7 +58,7 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Arquitectura de blockchain',
+        titulo: 'Arquitectura de <i>blockchain</i>',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -71,7 +71,7 @@ export default {
             icono: 'far fa-file-alt',
             numero: '2.2',
             titulo:
-              'Capas de la arquitectura (aplicación, ledger o base de datos distribuida, red de igual a igual)',
+              'Capas de la arquitectura (aplicación, <i>ledger</i> o base de datos distribuida, red de igual a igual)',
             hash: 't_2_2',
           },
         ],
@@ -80,13 +80,13 @@ export default {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Plataforma Ethereum',
+        titulo: 'Plataforma <i>Ethereum</i>',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '3.1',
-            titulo: 'Análisis de etapas de Ethereum',
+            titulo: 'Análisis de etapas de <i>Ethereum</i>',
             hash: 't_3_1',
           },
           {
@@ -128,19 +128,19 @@ export default {
         nombreRuta: 'tema5',
         icono: 'far fa-file-alt',
         numero: '5',
-        titulo: 'Tendencias de blockchain',
+        titulo: 'Tendencias de <i>blockchain</i>',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '5.1',
-            titulo: 'Visualización de blockchain',
+            titulo: 'Visualización de <i>blockchain</i>',
             hash: 't_5_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '5.2',
-            titulo: 'Modelos de negocio de blockchain',
+            titulo: 'Modelos de negocio de <i>blockchain</i>',
             hash: 't_5_2',
           },
           {
@@ -194,61 +194,61 @@ export default {
   referencias: [
     {
       referencia:
-        'Arroyo Guardeño, D. Díaz Vico, J. & Hernández Encinas, L. (2019). Blockchain. Editorial CSIC Consejo Superior de Investigaciones Científicas.',
+        'Arroyo Guardeño, D. Díaz Vico, J. & Hernández Encinas, L. (2019). <i><i>Blockchain</i></i>. Editorial CSIC Consejo Superior de Investigaciones Científicas.',
       link:
         'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/111431 ',
     },
     {
       referencia:
-        'García-Morales, E. (2018). Luces y sombras sobre el impacto del blockchain en la gestión de documentos. Anuario ThinkEPI, 12, 345–351.',
+        'García-Morales, E. (2018). Luces y sombras sobre el impacto del <i>blockchain</i> en la gestión de documentos. Anuario ThinkEPI, 12, 345–351.',
       link: 'https://doi.org/10.3145/thinkepi.2018.58  ',
     },
     {
       referencia:
-        'Grupo Garatú (2018).  ¿Qué tipos de Blockchain o Cadenas de Bloques existen?. ',
+        'Grupo Garatú (2018).  ¿Qué tipos de <i><i>Blockchain</i></i> o Cadenas de Bloques existen?. ',
       link:
         'https://grupogaratu.com/cuales-son-los-diferentes-tipos-de-blockchains-o-cadena-de-bloques/',
     },
     {
       referencia:
-        'Herrera, J. (2021). Propuesta de un mecanismo de gestión de pagos públicos mediante cadena de bloques (blockchain). Revista de derecho de la Hacienda Pública, ISSN-e 2215-3624, Nº. 17, 2021, págs. 22-39.',
+        'Herrera, J. (2021). Propuesta de un mecanismo de gestión de pagos públicos mediante cadena de bloques (<i>blockchain</i>). Revista de derecho de la Hacienda Pública, ISSN-e 2215-3624, Nº. 17, 2021, págs. 22-39.',
       link: 'https://dialnet.unirioja.es/servlet/articulo?codigo=8072557  ',
     },
     {
       referencia:
-        'MINTIC. (2022) Guía de referencia de blockchain para la adopción e implementación de proyectos en el estado colombiano.',
+        'MINTIC. (2022) Guía de referencia de <i>blockchain</i> para la adopción e implementación de proyectos en el estado colombiano.',
       link:
         'https://gobiernodigital.mintic.gov.co/692/articles-161810_Ley_2052_2020.pdf ',
     },
     {
       referencia:
-        'Pacheco Jiménez, M. (2019). De la tecnología blockchain a la economía del token.',
+        'Pacheco Jiménez, M. (2019). De la tecnología <i>blockchain</i> a la economía del <i>token</i>.',
       link: 'https://dx.doi.org/10.18800/derechopucp.201902.003',
     },
     {
       referencia:
-        'Shashank (2019).  What are Smart Contracts? A Beginner’s Guide To Smart Contracts.',
+        'Shashank (2019).  What are <i>Smart Contracts</i>? A Beginner’s Guide To <i>Smart Contracts</i>.',
       link: 'https://www.edureka.co/blog/smart-contracts/ ',
     },
     {
       referencia:
-        'Tapscott, D., & Tapscott, A. (2017). La revolución blockchain. Descubre cómo esta nueva tecnología transformará la economía global. ediciones Deusco. séptima edición.',
+        'Tapscott, D., & Tapscott, A. (2017). La revolución <i>blockchain</i>. Descubre cómo esta nueva tecnología transformará la economía global. ediciones Deusco. séptima edición.',
       link:
         'https://static0planetadelibroscommx.cdnstatics.com/libros_contenido_extra/35/34781_La_revolucion_blockchain.pdf ',
     },
     {
       referencia:
-        'Tudela, L (2019) Arquitectura blockchain para la securización de dispositivos IOT mediante smart contracts.',
+        'Tudela, L (2019) Arquitectura <i>blockchain</i> para la securización de dispositivos <i>IOT</i> mediante <i>smart contracts</i>.',
       link: 'http://castor.det.uvigo.es:8080/xmlui/handle/123456789/345 ',
     },
     {
       referencia:
-        'Vega Maza, M. (2019). El auge de blockchain y sus posibilidades reales de aplicación en los registros de las administraciones públicas. Revista de Internet, Derecho y Política.',
+        'Vega Maza, M. (2019). El auge de <i>blockchain</i> y sus posibilidades reales de aplicación en los registros de las administraciones públicas. Revista de <i>Internet</i>, Derecho y Política.',
       link: 'https://doi.org/10.7238/idp.v0i28.3154 ',
     },
     {
       referencia:
-        'Zhang, R. Xue, R. Liu, L. (2019). Security and Privacy on Blockchain. ACM Comput. Surv. 52, 3, Article 51 (May 2020).',
+        'Zhang, R. Xue, R. Liu, L. (2019). Security and Privacy on <i><i>Blockchain</i></i>. ACM Comput. Surv. 52, 3, Article 51 (May 2020).',
       link: 'https://doi.org/10.1145/3316481',
     },
   ],
@@ -256,67 +256,63 @@ export default {
     {
       termino: 'Algoritmo de consenso',
       significado:
-        'Es el mecanismo utilizado por una red Blockchain, para determinar el estado correcto de un registro después de realizar una transacción.',
+        'Es el mecanismo utilizado por una red <i><i>Blockchain</i></i>, para determinar el estado correcto de un registro después de realizar una transacción.',
     },
     {
       termino: 'Arquitectura',
-      significado: 'Sistema de software construido con procesos comunicantes.',
+      significado:
+        'Sistema de <i>software </i>construido con procesos comunicantes.',
     },
     {
-      termino: 'Hash',
+      termino: '<i>Hash</i>',
       significado:
         'Resultado de la aplicación de un algoritmo matemático a una cadena de información, obteniendo una serie de caracteres con una longitud fija.',
     },
     {
-      termino: 'P2P',
+      termino: '<i>P2P</i>',
       significado:
         'Son redes conformadas por personas o dispositivos que operan de manera descentralizada y sin responder a un nodo central.',
     },
     {
-      termino: 'Web 3.0',
+      termino: '<i>Web 3.0</i>',
       significado:
-        'La web 3.0 es la tercera generación de servicios de Internet que se centrará en la comprensión y análisis de los datos para proporcionar una web semántica. Su objetivo es el de crear webs más inteligentes, conectadas, abiertas, descentralizadas y soportadas bajo redes de blockchain y adaptadas a cada usuario.',
+        'La <i>web 3.0</i> es la tercera generación de servicios de <i>Internet</i> que se centrará en la comprensión y análisis de los datos para proporcionar una web semántica. Su objetivo es el de crear webs más inteligentes, conectadas, abiertas, descentralizadas y soportadas bajo redes de <i>blockchain</i> y adaptadas a cada usuario.',
     },
     {
-      termino: 'DApp',
+      termino: '<i>DApp</i>',
       significado:
         'Conocidas también como aplicaciones descentralizadas, son aplicaciones cuyo funcionamiento se basa en una red descentralizada de nodos interactuando unos con otros sin depender de un nodo central.',
     },
     {
-      termino: 'Gas',
+      termino: '<i>Gas</i>',
       significado:
-        'Es la comisión necesaria para llevar a cabo una transacción en una red de blockchain.',
+        'Es la comisión necesaria para llevar a cabo una transacción en una red de <i>blockchain</i>.',
     },
     {
-      termino: 'Token',
+      termino: '<i>Token</i>',
       significado:
         'Es una unidad de valor que una organización crea para gobernar su modelo de negocio y dar más poder a sus usuarios para interactuar con sus productos, al tiempo que facilita la distribución y reparto de beneficios entre todos sus accionistas.',
     },
     {
-      termino: 'Web 3.0',
-      significado:
-        'Tercera generación de servicios de Internet para páginas web y aplicaciones. Se centrará en el uso de una comprensión de datos basada en máquinas para proporcionar una Web semántica y datificada. Su objetivo es el de crear sitios web más inteligentes, conectados y abiertos',
-    },
-    {
-      termino: 'Whitepaper',
+      termino: '<i>Whitepaper</i>',
       significado:
         'Documento que define un proyecto, su estructura, monetización, reglas de negocio y cronograma de desarrollo',
     },
   ],
   complementario: [
     {
-      tema: 'Arquitectura de Blockchain- Conceptos',
+      tema: 'Arquitectura de <i><i>Blockchain</i></i>- Conceptos',
       referencia:
-        'MinTic. (2020) Guía de referencia de blockchain para la adopción e implementación de proyectos en el estado colombiano.',
+        'MinTic. (2020) Guía de referencia de <i>blockchain</i> para la adopción e implementación de proyectos en el estado colombiano.',
       tipo: 'Documento',
       link:
         'https://gobiernodigital.mintic.gov.co/692/articles-161810_Ley_2052_2020.pdf',
     },
     {
       tema:
-        'Capas de la arquitectura (aplicación, ledger o base de datos distribuida, red de igual a igual)',
+        'Capas de la arquitectura (aplicación, <i>ledger</i> o base de datos distribuida, red de igual a igual)',
       referencia:
-        'Tudela Díaz, I. (2019). Arquitectura blockchain para la securización de dispositivos IOT mediante smart contracts. [Tesis de pregrado,  Ingenieria en Tecnologías de la Telecomunicación. Universidad de Vigo, para optar al título de +',
+        'Tudela Díaz, I. (2019). Arquitectura <i>blockchain</i> para la securización de dispositivos <i>IOT</i> mediante <i>smart contracts</i>. [Tesis de pregrado,  Ingenieria en Tecnologías de la Telecomunicación. Universidad de Vigo, para optar al título de +',
       tipo: 'Tesis de grado',
       link:
         'http://castor.det.uvigo.es:8080/xmlui/bitstream/handle/123456789/345/TFG%20Iago%20Tudela%20D%c3%adaz.pdf?sequence=1&isAllowed=y ',

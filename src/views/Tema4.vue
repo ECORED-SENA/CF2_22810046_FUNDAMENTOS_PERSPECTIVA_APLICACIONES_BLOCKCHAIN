@@ -7,7 +7,7 @@
         span 4
       h1 Contratos Inteligentes
 
-    p.mb-5 Los contratos inteligentes se utilizan para automatizar la ejecución de un acuerdo para que todos los participantes puedan estar seguros de inmediato del resultado, sin la participación de ningún intermediario o pérdida de tiempo, se trata de un código escrito en lenguaje de programación que corre en una plataforma segura –Blockchain– que lo hace inmodificable y autoejecutable, para facilitar, asegurar, hacer cumplir y ejecutar acuerdos registrados entre dos o más partes, a continuación, se dará explicación al respecto:
+    p.mb-5 Los contratos inteligentes se utilizan para automatizar la ejecución de un acuerdo para que todos los participantes puedan estar seguros de inmediato del resultado, sin la participación de ningún intermediario o pérdida de tiempo, se trata de un código escrito en lenguaje de programación que corre en una plataforma segura –<i><i>Blockchain</i></i>– que lo hace inmodificable y autoejecutable, para facilitar, asegurar, hacer cumplir y ejecutar acuerdos registrados entre dos o más partes, a continuación, se dará explicación al respecto:
 
     #t_4_1.titulo-segundo.color-acento-contenido
       h2 4.1 Conceptos
@@ -18,19 +18,19 @@
             img(src="@/assets/curso/tema4/img01.png")
           .col-lg-8
             .bloque-texto-a__texto.p-4
-              p.mb-0 Los contratos inteligentes, también denominados “Smart Contracts”, han venido cobrando fuerza en todos los ámbitos, y es que hoy en día, con la globalización de la economía, los mercados digitales y el impulso por diversos factores como la pandemia, han llevado a que muchos trámites que requerían de la presencia del interesado, de firmas físicas y papeleo interminable, se reinventen en su forma de realizarse y han encontrado en estos contratos inteligentes la manera de brindar las oportunidades y agilidad para la celebración de acuerdo a partir de transacciones basadas en blockchain.
+              p.mb-0 Los contratos inteligentes, también denominados “<i>Smart Contracts</i>”, han venido cobrando fuerza en todos los ámbitos, y es que hoy en día, con la globalización de la economía, los mercados digitales y el impulso por diversos factores como la pandemia, han llevado a que muchos trámites que requerían de la presencia del interesado, de firmas físicas y papeleo interminable, se reinventen en su forma de realizarse y han encontrado en estos contratos inteligentes la manera de brindar las oportunidades y agilidad para la celebración de acuerdo a partir de transacciones basadas en <i>blockchain</i>.
 
     .fondo1
       .row.justify-content-center.align-items-center.mb-4.pt-4
         .col-lg-2.col-10  
           img.mb-lg-0.mb-3(src="@/assets/curso/tema4/img02.png")
         .col-lg-10.col-12  
-          p.mb-4 <b>Según IBM (2022):</b>
+          p.mb-4 <b>Según <i>IBM</i> (2022):</b>
           p.mb-0 Los contratos inteligentes son simplemente programas almacenados en una cadena de bloques que se ejecutan cuando se cumplen condiciones predeterminadas. Por lo general, se utilizan para automatizar la ejecución de un acuerdo para que todos los participantes puedan estar seguros de inmediato del resultado, sin la participación de ningún intermediario o pérdida de tiempo. También pueden automatizar un flujo de trabajo, activando la siguiente acción cuando se cumplen las condiciones. 
 
       .row.justify-content-center.align-items-center.mb-0.pt-4
         .col-lg-8.col-12  
-          h4.mb-4 Esto ha favorecido la inclusión de estos contratos dentro de aplicaciones y soluciones basadas en blockchain para facilitar actividades como:
+          h4.mb-4 Esto ha favorecido la inclusión de estos contratos dentro de aplicaciones y soluciones basadas en <i>blockchain</i> para facilitar actividades como:
           .row.justify-content-center.align-items-center.mb-5.pt-4
             .col-lg-11.col-12.dato1.position-relative
               SlyderF.mb-0.position-relative(columnas="col-12 col-lg-4" data-aos="fade-left")
@@ -193,7 +193,7 @@
                     img.mb-0(style="width:69px" src="@/assets/curso/tema4/img27.svg")
 
               tr(style="background-color:#f6f6f6")
-                td(style="vertical-align:top") <b>Una simple transacción bitcoin.</b>
+                td(style="vertical-align:top") <b>Una simple transacción <i>bitcoin</i>.</b>
                 td(style="vertical-align:top") <b>Consumidor compra un flujo de contenido digital.</b>
                 td(style="vertical-align:top") <b>Propietario bloquea de forma remota al inquilino que no paga.</b>
                 td(style="vertical-align:top") <b>Vendedor presta fondos al comprador para comprar una casa.</b>
@@ -210,8 +210,8 @@
         .row.justify-content-center.align-items-center(titulo="Salud")
           p.mb-4 En la atención médica, los contratos inteligentes ayudan a mejorar los procesos de prueba de seguros, brindan acceso a datos interinstitucionales y brindan a los pacientes la confianza de que sus datos confidenciales están seguros.
           .col-lg-8.col-10
-            p.mb-4 Robomed Network es una red médica descentralizada que emite sus propios tokens para respaldar contratos inteligentes entre proveedores de atención médica y pacientes. Robomed Network se encuentra en fase de pruebas beta y utiliza Robomed EHR (Electronic Health Record).
-            p.mb-lg-0.mb-0 Este sistema permite a los usuarios conectarse y gestionar su cooperación basada en contratos inteligentes de blockchain de Ethereum. El contrato digital monitorea todas las interacciones con los pacientes, las métricas de efectividad y las impresiones de los pacientes sobre las interacciones con los proveedores de atención.
+            p.mb-4 <i><i>Robomed</i> Network</i> es una red médica descentralizada que emite sus propios <i>tokens</i> para respaldar contratos inteligentes entre proveedores de atención médica y pacientes. <i><i>Robomed</i> Network</i> se encuentra en fase de pruebas beta y utiliza <i>Robomed</i> <i>EHR</i> (<i>Electronic Health Record</i>).
+            p.mb-lg-0.mb-0 Este sistema permite a los usuarios conectarse y gestionar su cooperación basada en contratos inteligentes de <i>blockchain</i> de <i>Ethereum</i>. El contrato digital monitorea todas las interacciones con los pacientes, las métricas de efectividad y las impresiones de los pacientes sobre las interacciones con los proveedores de atención.
           .col-lg-3.col-10
             img.mb-lg-0.mb-3(src="@/assets/curso/tema4/img29.png")
         
@@ -229,7 +229,7 @@
             img.mb-lg-0.mb-3(src="@/assets/curso/tema4/img28.png")
           .col-lg-8.col-10
             p.mb-4 La industria de bienes raíces puede usar contratos inteligentes para firmar acuerdos entre partes interesadas en comprar, vender o alquilar bienes raíces.
-            p.mb-4 Propy es una de las primeras empresas inmobiliarias en hacer uso de contratos inteligentes. Vieron su primera transacción en septiembre de 2017, cuando alguien compró un apartamento de $ 60,000 en Ucrania.\
+            p.mb-4 <i>Propy</i> es una de las primeras empresas inmobiliarias en hacer uso de contratos inteligentes. Vieron su primera transacción en septiembre de 2017, cuando alguien compró un apartamento de $ 60,000 en Ucrania.
             p.mb-0 Este mercado inmobiliario permite a los propietarios y corredores publicar propiedades. Los compradores pueden buscar y negociar. Tanto los compradores como los vendedores participan en el contrato inteligente y ambas partes toman medidas específicas a lo largo del proceso para garantizar un juego justo y legal.
 
         .row.justify-content-center.align-items-center(titulo="Servicios financieros")          
@@ -244,11 +244,11 @@
             img.mb-lg-0.mb-3(src="@/assets/curso/tema4/img32.png")
           .col-lg-8.col-10
             p.mb-4 Tradicionalmente, las cadenas de suministro sufren debido a los sistemas basados en papel donde los formularios pasan por múltiples canales para obtener aprobaciones.
-            p.mb-0 El laborioso proceso aumenta el riesgo de fraude y pérdida. Blockchain puede anular tales riesgos al entregar una versión digital accesible y segura a las partes involucradas en la cadena. Los contratos inteligentes se pueden utilizar para la gestión de inventario y la automatización de pagos y tareas.
+            p.mb-0 El laborioso proceso aumenta el riesgo de fraude y pérdida. <i><i>Blockchain</i></i> puede anular tales riesgos al entregar una versión digital accesible y segura a las partes involucradas en la cadena. Los contratos inteligentes se pueden utilizar para la gestión de inventario y la automatización de pagos y tareas.
 
     Separador   
     #t_4_3.titulo-segundo.color-acento-contenido
-      h2 4.3 4.3 Interacción con otras aplicaciones.
+      h2 4.3 Interacción con otras aplicaciones
           
     .fondo3
       .row.justify-content-center.align-items-center.mb-5.position-relative
@@ -256,40 +256,40 @@
           img.mb-4(src="@/assets/curso/tema4/img33.png")
           .row.justify-content-center.align-items-center.mb-5.position-absolute(style="top: 65%")
             .col-lg-10.col-12.position-relative.fondo4.p-3.px-4
-              p.mb-0 El blockchain cuenta además de Ethereum como plataforma base, con un gran número de proyectos que permiten interactuar con las redes de cadenas de bloques, cada proyecto presenta una propuesta tecnológica que contempla la inclusión de servicios, DApps, wallet, infraestructura, finanzas descentralizadas, gaming, NFT entre otras soluciones, a continuación, vamos a conocer las propuestas de algunos proyectos.
+              p.mb-0 El <i>blockchain</i> cuenta además de <i>Ethereum</i> como plataforma base, con un gran número de proyectos que permiten interactuar con las redes de cadenas de bloques, cada proyecto presenta una propuesta tecnológica que contempla la inclusión de servicios, <i>DApps</i>, <i>wallet</i>, infraestructura, finanzas descentralizadas, <i>gaming</i>, <i>NFT</i> entre otras soluciones, a continuación, vamos a conocer las propuestas de algunos proyectos.
 
       TabsC.color-acento-contenido.position-relative
-        .row.justify-content-evenly.align-items-center.py-3.py-md-4(titulo="Ecosistema Bitcoin")
+        .row.justify-content-evenly.align-items-center.py-3.py-md-4(titulo="Ecosistema <i>Bitcoin</i>")
           .col-lg-3.col-10
             img.mb-lg-0.mb-3(src="@/assets/curso/tema4/img34.png")
           .col-lg-6.col-12
-            h3.mb-4 Ecosistema Bitcoin
+            h3.mb-4 Ecosistema <i>Bitcoin</i>
             p.mb-0 Este proyecto se ha convertido en una innovadora red de pagos y una nueva clase de dinero, en la siguiente figura podemos ver su ecosistema propuesto y su proyecto puede consultarse en: https://bitcoin.org/.
-        .row.justify-content-evenly.align-items-center.py-3.py-md-4(titulo="Ecosistema Etherum")
+        .row.justify-content-evenly.align-items-center.py-3.py-md-4(titulo="Ecosistema <i>Etherum</i>")
           .col-lg-3.col-10
             img.mb-lg-0.mb-3(src="@/assets/curso/tema4/img35.png")
           .col-lg-6.col-12
-            h3.mb-4 Ecosistema Etherum
-            p.mb-0 Este proyecto es uno de los proyectos iniciales, y que estableció el punto de partida para los nuevos ecosistemas, este proyecto cuenta con grandes soluciones para Wallets, finanzas descentralizadas, mercados descentralizados, juegos, NFT, entre otros. En la siguiente figura podemos observar el ecosistema de proyectos que dependen de Ethereum, pueden consultar el proyecto en https://ethereum.org/.
-        .row.justify-content-evenly.align-items-center.py-3.py-md-4(titulo="Ecosistema Solana")
+            h3.mb-4 Ecosistema <i>Etherum</i>
+            p.mb-0 Este proyecto es uno de los proyectos iniciales, y que estableció el punto de partida para los nuevos ecosistemas, este proyecto cuenta con grandes soluciones para <i>Wallets</i>, finanzas descentralizadas, mercados descentralizados, juegos, <i>NFT</i>, entre otros. En la siguiente figura podemos observar el ecosistema de proyectos que dependen de <i>Ethereum</i>, pueden consultar el proyecto en https://ethereum.org/.
+        .row.justify-content-evenly.align-items-center.py-3.py-md-4(titulo="Ecosistema <i>Solana</i>")
           .col-lg-3.col-10
             img.mb-lg-0.mb-3(src="@/assets/curso/tema4/img36.png")
           .col-lg-6.col-12
-            h3.mb-4 Ecosistema Solana
-            p.mb-0 Proyecto blockchain que busca aprovechar al máximo los NFT y contratos inteligentes, se puede observar el ecosistema de soluciones integradas en la siguiente gráfica y consultar el proyecto en https://solana.com/ 
-        .row.justify-content-evenly.align-items-center.py-3.py-md-4(titulo="Ecosistema Cardano")
+            h3.mb-4 Ecosistema <i>Solana</i>
+            p.mb-0 Proyecto <i>blockchain</i> que busca aprovechar al máximo los <i>NFT</i> y contratos inteligentes, se puede observar el ecosistema de soluciones integradas en la siguiente gráfica y consultar el proyecto en https://solana.com/ 
+        .row.justify-content-evenly.align-items-center.py-3.py-md-4(titulo="Ecosistema <i>Cardano</i>")
           .col-lg-3.col-10
             img.mb-lg-0.mb-3(src="@/assets/curso/tema4/img37.png")
           .col-lg-6.col-12
-            h3.mb-4 Ecosistema Cardano
+            h3.mb-4 Ecosistema <i>Cardano</i>
             p.mb-0 Este proyecto promete ser una plataforma para contratos inteligentes y su integración con grandes soluciones, pueden consultar el proyecto en: https://cardano.org/ 
-        .row.justify-content-evenly.align-items-center.py-3.py-md-4(titulo="Ecosistema Polkadot")
+        .row.justify-content-evenly.align-items-center.py-3.py-md-4(titulo="Ecosistema <i>Polkadot</i>")
           .col-lg-3.col-10
             img.mb-lg-0.mb-3(src="@/assets/curso/tema4/img38.png")
           .col-lg-6.col-12
-            h3.mb-4 Ecosistema Polkadot
-            p.mb-4 Este proyecto apalancado en proyectos denominados Parachains buscan brindar soluciones de diferentes tipos, en la siguiente figura podemos consultar el ecosistema propuesto y consultar su proyecto en https://polkadot.network/ 
-            p.mb-0 Existen muchos más proyectos con infinidad de propuestas para aplicar en el mundo del blockchain, cerca de 10000 proyectos activos y con infinidad de propuestas, los invitamos a estudiarlos tomar su propia decisión con cual trabajar en sus necesidades.
+            h3.mb-4 Ecosistema <i>Polkadot</i>
+            p.mb-4 Este proyecto apalancado en proyectos denominados <i>Parachains</i> buscan brindar soluciones de diferentes tipos, en la siguiente figura podemos consultar el ecosistema propuesto y consultar su proyecto en https://polkadot.network/ 
+            p.mb-0 Existen muchos más proyectos con infinidad de propuestas para aplicar en el mundo del <i>blockchain</i>, cerca de 10000 proyectos activos y con infinidad de propuestas, los invitamos a estudiarlos tomar su propia decisión con cual trabajar en sus necesidades.
 
 
           

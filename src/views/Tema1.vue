@@ -20,7 +20,7 @@
 
     .row.justify-content-center.align-items-center.mb-3
       .col-lg-9.col-12
-        p.mb-5 El blockchain es una estructura de datos que almacena información en bloques a los cuales puede agregarse información denominada metainformación además cuenta con su propio hash y el hash del bloque inmediatamente anterior, la cual permite mantener una estrecha relación con otros bloques de una red. 
+        p.mb-5 El <i>blockchain</i> es una estructura de datos que almacena información en bloques a los cuales puede agregarse información denominada metainformación además cuenta con su propio <i>hash</i> y el <i>hash</i> del bloque inmediatamente anterior, la cual permite mantener una estrecha relación con otros bloques de una red. 
         h4.mb-lg-0.mb-3 <b>Puede ser un sistema centralizado, descentralizado o distribuido:</b>
       .col-lg-3.col-10
         img.mb-0(src="@/assets/curso/tema1/img02.svg")
@@ -48,7 +48,7 @@
                 h3.text-center Distribuido
                 p.text-center.mb-3 Carece de un nodo central y o grupal de nodos, en su lugar, los nodos existentes se enlazan para conformar la red.
 
-      p.mb-5 Una explicación más detallada al respecto a los tipos de red en el blockchain de encuentra en el siguiente recurso:
+      p.mb-5 Una explicación más detallada al respecto a los tipos de red en el <i>blockchain</i> de encuentra en el siguiente recurso:
 
       .row.justify-content-center.align-items-center.mb-0
         .col-lg-5.col-10
@@ -56,15 +56,15 @@
         .col-lg-7.col-12
           LineaTiempoD.color-acento-contenido
             .div(numero="1" titulo="Centralizado")
-              p.mb-4 Este término bastante escuchado en el ámbito del blockchain. Dado que hay un nodo central que regula la información, cuando un miembro requiera realizar una transacción, deberá de hacer uso de un intermediario para alcanzar su objetivo, esto choca con la filosofía del blockchain el cual se concibió para que fuese abierto y descentralizado.
+              p.mb-4 Este término bastante escuchado en el ámbito del <i>blockchain</i>. Dado que hay un nodo central que regula la información, cuando un miembro requiera realizar una transacción, deberá de hacer uso de un intermediario para alcanzar su objetivo, esto choca con la filosofía del <i>blockchain</i> el cual se concibió para que fuese abierto y descentralizado.
               .row.justify-content-center.align-items-center.mb-0
                 .col-lg-4.col-10
                   img.mb-lg-0.mb-3(src="@/assets/curso/tema1/img07.svg")
                 .col-lg-8.col-12
-                  p.mb-0 Para entender un poco el concepto puedes imaginar un servicio electrónico que utilice a diario, como Facebook, YouTube o twitter los cuales están controlados por una unidad quien es la que valida y aprueba todos los cambios sobre los elementos de la red, ¿qué pasaría si este nodo no es capaz de operar?, lo más probable es que se presenten intermitencias en el servicio indisponiendo la continuidad del mismo. 
+                  p.mb-0 Para entender un poco el concepto puedes imaginar un servicio electrónico que utilice a diario, como <i>Facebook</i>, <i>YouTube</i> o <i>Twitter</i> los cuales están controlados por una unidad quien es la que valida y aprueba todos los cambios sobre los elementos de la red, ¿qué pasaría si este nodo no es capaz de operar?, lo más probable es que se presenten intermitencias en el servicio indisponiendo la continuidad del mismo. 
 
             .div(numero="1" titulo="Descentralizado")
-              p.mb-4 Este concepto tomó fuerza con el surgimiento del blockchain a mediados del año 2009, busca independencia y autonomía entre nodos.
+              p.mb-4 Este concepto tomó fuerza con el surgimiento del <i>blockchain</i> a mediados del año 2009, busca independencia y autonomía entre nodos.
 
               .row.justify-content-center.align-items-center.mb-0
                 .col-lg-8.col-12
@@ -72,15 +72,15 @@
                 .col-lg-4.col-10
                   img.mb-0(src="@/assets/curso/tema1/img08.svg")
             .div(numero="3" titulo="Distribuido")
-              p.mb-0 Adicional a los modelos anteriormente descritos, esta el distribuido, que como se dijo antes carece de nodo central y/o grupal, y los nodos existentes se enlazan para conformar la red, con este modelo ya no se tendría en cuenta los conceptos de centro y periferia propuestos por el centralizado y descentralizado, para poner un ejemplo, la internet se convierte en una red distribuida.
+              p.mb-0 Adicional a los modelos anteriormente descritos, esta el distribuido, que como se dijo antes carece de nodo central y/o grupal, y los nodos existentes se enlazan para conformar la red, con este modelo ya no se tendría en cuenta los conceptos de centro y periferia propuestos por el centralizado y descentralizado, para poner un ejemplo, la <i>internet</i> se convierte en una red distribuida.
 
     div.d-flex.align-items-center.mb-5
       div.p-0
         img.mb-0(style="width:55px" src="@/assets/curso/tema1/vineta1.png")
       div.px-2
-        p.mb-0 <b>Continuando con el tema de los tipos de red que se encuentran en blockchain, otro aspecto relacionado es el de: algoritmo de consenso, que es el mecanismo utilizado por una red blockchain, para determinar el estado correcto de un registro después de realizar una transacción.</b>
+        p.mb-0 <b>Continuando con el tema de los tipos de red que se encuentran en <i>blockchain</i>, otro aspecto relacionado es el de: algoritmo de consenso, que es el mecanismo utilizado por una red <i>blockchain</i>, para determinar el estado correcto de un registro después de realizar una transacción.</b>
 
-    p.mb-4 Se pueden resaltar dos tipos de algoritmos como los más representativos: PoW (Proof of Work), como se explica a continuación:
+    p.mb-4 Se pueden resaltar dos tipos de algoritmos como los más representativos: <i>PoW</i> (<i>Proof of Work</i>), como se explica a continuación:
 
     .fondo7.p-4.mb-5      
       SlyderA(tipo="b")
@@ -91,16 +91,16 @@
             .row.justify-content-center.align-items-center.mb-0
               .col-lg-10.col-12.position-relative
                 img.mb-0.position-absolute(style="width:201px; top:-115px; left:-85px;" src="@/assets/curso/tema1/img17.png")  
-                h4 PoW (Proof of Work)
-                p.mb-0 Se conoce como el algoritmo inicial de blockchain y fue implementado junto con Bitcoin, este algoritmo es utilizado por los mineros o validadores para el desarrollo de las funciones en las transacciones sometiendo a hash los datos almacenados en los bloques y así proporcionar una solución valida.
+                h4 <i>PoW</i> (<i>Proof of Work</i>)
+                p.mb-0 Se conoce como el algoritmo inicial de <i>blockchain</i> y fue implementado junto con <i>Bitcoin</i>, este algoritmo es utilizado por los mineros o validadores para el desarrollo de las funciones en las transacciones sometiendo a <i>hash</i> los datos almacenados en los bloques y así proporcionar una solución valida.
 
         .row.justify-content-center.align-items-center.mb-0.pt-4
           .col-lg-8.col-12                  
             .row.justify-content-center.align-items-center.mb-0
               .col-lg-10.col-12.position-relative
                 img.mb-0.position-absolute(style="width:201px; top:-115px; left:-85px;" src="@/assets/curso/tema1/img18.png")  
-                h4 PoS (Proof of Stake)
-                p.mb-lg-0.mb-3 Se implementó al inicio del Bitcoin como una alternativa a Proof of Work. En este sistema no existe un concepto de mineros o validadores, hardware especializado o consumo masivo de energía. Todo lo que se necesita es una PC normal.
+                h4 <i>PoS</i> (Proof of Stake)
+                p.mb-lg-0.mb-3 Se implementó al inicio del <i>Bitcoin</i> como una alternativa a <i>Proof of Work</i>. En este sistema no existe un concepto de mineros o validadores, <i>hardware</i> especializado o consumo masivo de energía. Todo lo que se necesita es una PC normal.
           .col-lg-3.col-10
             img.mb-0(src="@/assets/curso/tema1/img10.svg")
 
@@ -111,15 +111,15 @@
             .row.justify-content-center.align-items-center.mb-0
               .col-lg-10.col-12.position-relative
                 img.mb-0.position-absolute(style="width:201px; top:-105px; left:-85px;" src="@/assets/curso/tema1/img19.png")  
-                h4 POW+POS
-                p.mb-0 Combina los dos algoritmos anteriormente presentados. En PoW se necesita recursos externos como hardwares de minería para completar los procesos. En PoS no es necesario. A través del protocolo de la Prueba de Trabajo (PoW), los mineros resuelven problemas matemáticos. Por dicho trabajo éstos obtienen una recompensa por agregar un bloque verificado a la blockchain.
+                h4 <i>POW</i>+<i>POS</i>
+                p.mb-0 Combina los dos algoritmos anteriormente presentados. En <i>PoW</i> se necesita recursos externos como hardwares de minería para completar los procesos. En <i>PoS</i> no es necesario. A través del protocolo de la Prueba de Trabajo (<i>PoW</i>), los mineros resuelven problemas matemáticos. Por dicho trabajo éstos obtienen una recompensa por agregar un bloque verificado a la <i>blockchain</i>.
 
         .row.justify-content-center.align-items-center.mb-0.pt-4
           .col-lg-8.col-12                  
             .row.justify-content-center.align-items-center.mb-0
               .col-lg-10.col-12.position-relative
                 img.mb-0.position-absolute(style="width:201px; top:-115px; left:-85px;" src="@/assets/curso/tema1/img20.png")  
-                h4 DPOS (Delegated Proof of Stake)
+                h4 <i>DPOS</i> (Delegated Proof of Stake)
                 p.mb-lg-0.mb-3 Certificado de participación autorizado. Los poseedores de monedas pueden votar y elegir algunos nodos como representantes para llevar cuentas, similar al sistema del Congreso Nacional de Personas.
           .col-lg-3.col-10
             img.mb-0(src="@/assets/curso/tema1/img12.svg")
@@ -131,8 +131,8 @@
             .row.justify-content-center.align-items-center.mb-0
               .col-lg-10.col-12.position-relative
                 img.mb-0.position-absolute(style="width:201px; top:-105px; left:-85px;" src="@/assets/curso/tema1/img21.png")  
-                h4 PBFT (Practical Byzantine Fault Tolerance)
-                p.mb-0 Práctico algoritmo bizantino tolerante a fallas. Todos en la cadena participan en la votación y el resultado se procesa de acuerdo con el algoritmo de consenso bizantino. Hay un problema muy conocido en matemáticas llamado Problema de los generales bizantinos, que es muy interesante, y puede consultar fácilmente en la internet.
+                h4 <i>PBFT</i> (<i>Practical Byzantine Fault Tolerance</i>)
+                p.mb-0 Práctico algoritmo bizantino tolerante a fallas. Todos en la cadena participan en la votación y el resultado se procesa de acuerdo con el algoritmo de consenso bizantino. Hay un problema muy conocido en matemáticas llamado Problema de los generales bizantinos, que es muy interesante, y puede consultar fácilmente en la <i>internet</i>.
 
         .row.justify-content-center.align-items-center.mb-0.pt-4
           .col-lg-8.col-12                  
@@ -152,15 +152,15 @@
               .col-lg-10.col-12.position-relative
                 img.mb-0.position-absolute(style="width:201px; top:-105px; left:-85px;" src="@/assets/curso/tema1/img23.png")  
                 h4 POI (Proof of Participation) 
-                p.mb-0 Algoritmo de prueba de participación. Es un protocolo de consenso creado para reemplazar al conocido Proof of Work aportando una mejor seguridad y escalabilidad a las redes que lo implementen.
+                p.mb-0 Algoritmo de prueba de participación. Es un protocolo de consenso creado para reemplazar al conocido <i>Proof of Work</i> aportando una mejor seguridad y escalabilidad a las redes que lo implementen.
 
         .row.justify-content-center.align-items-center.mb-0.pt-4
           .col-lg-8.col-12                  
             .row.justify-content-center.align-items-center.mb-0
               .col-lg-10.col-12.position-relative
                 img.mb-0.position-absolute(style="width:201px; top:-115px; left:-85px;" src="@/assets/curso/tema1/img24.png")  
-                h4 P2P
-                p.mb-lg-0.mb-3 Las redes P2P o peer-to-peer, son redes conformadas por personas o dispositivos que operan de manera descentralizada y sin responder a un nodo central, haciendo uso de protocolos de comunicación y consenso común, esta red permite el intercambio de información directa entre lo mismos miembros de la red.
+                h4 <i>P2P</i>
+                p.mb-lg-0.mb-3 Las redes <i>P2P</i> o peer-to-peer, son redes conformadas por personas o dispositivos que operan de manera descentralizada y sin responder a un nodo central, haciendo uso de protocolos de comunicación y consenso común, esta red permite el intercambio de información directa entre lo mismos miembros de la red.
           .col-lg-3.col-10
             img.mb-0(src="@/assets/curso/tema1/img16.svg")
 
@@ -170,7 +170,7 @@
           div.d-flex.justify-content-center
             img.mb-0(style="width:101px" src="@/assets/curso/tema1/img25.svg")
         .col-lg-10.col-2
-          p.mb-0 El hash es un numero generado a partir de un fragmento de información aplicando algoritmos criptográficos, y para el caso del blockchain, dificulta las transacciones fraudulentas.
+          p.mb-0 El <i>hash</i> es un numero generado a partir de un fragmento de información aplicando algoritmos criptográficos, y para el caso del <i>blockchain</i>, dificulta las transacciones fraudulentas.
 
     Separador
     #t_1_2.titulo-segundo.color-acento-contenido
@@ -183,7 +183,7 @@
             img.mb-lg-0.mb-3(src="@/assets/curso/tema1/img26.svg")
           .col-lg-8
             .bloque-texto-a__texto.p-4
-              p.mb-0 En la actualidad existen distintos tipos de blockchain cada una con sus capacidades y características únicas que se adaptan a distintas necesidades. Las redes blockchain de acuerdo a su ámbito de operación y dependencia pueden clasificarse como pública, privada y la híbrida o federada, a continuación se puede ver en detalle esta clasificación:
+              p.mb-0 En la actualidad existen distintos tipos de <i>blockchain</i> cada una con sus capacidades y características únicas que se adaptan a distintas necesidades. Las redes <i>blockchain</i> de acuerdo a su ámbito de operación y dependencia pueden clasificarse como pública, privada y la híbrida o federada, a continuación se puede ver en detalle esta clasificación:
 
       AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
         div(titulo="Públicas")
@@ -199,7 +199,7 @@
                   p.mb-0 Cualquier miembro puede descargar el código y empezar a correr un nodo público en sus dispositivos locales, validar transacciones en la red, de este modo participar en el proceso de consenso, el proceso para determinar que bloques son añadidos a la cadena y su estado actual.
                 li 
                   i.fas.fa-pen-square.fa-lg
-                  p.mb-0 Cualquier miembro puede enviar transacciones a través de la red y esperar que sean incluidas en la blockchain si son válidas.
+                  p.mb-0 Cualquier miembro puede enviar transacciones a través de la red y esperar que sean incluidas en la <i>blockchain</i> si son válidas.
                 li 
                   i.fas.fa-pen-square.fa-lg
                   p.mb-0 Cualquiera puede consular las transacciones en el explorador de transacciones públicas. Las transacciones son transparentes, pero anónimas/ pseudo anónimas.
@@ -242,7 +242,7 @@
 
         div(titulo="Hibrida, Federada o de Consorcio")
           p.mb-4 Con estas redes se buscan reducir la dependencia de un nodo central, y busca que dependa de un grupos, consorcios o federaciones que busquen siempre la mejora de la misma red.
-          p.mb-4 A diferencia de las redes públicas, estas no permiten a ninguna persona con acceso a internet participar en el proceso de verificar transacciones. Las blockchain federadas son más rápidas (más escalabilidad) y proveen de más privacidad en las transacciones.
+          p.mb-4 A diferencia de las redes públicas, estas no permiten a ninguna persona con acceso a <i>internet</i> participar en el proceso de verificar transacciones. Las <i>blockchain</i> federadas son más rápidas (más escalabilidad) y proveen de más privacidad en las transacciones.
           p.mb-5 Entre los beneficios de este tipo de redes, están:
 
           .row.justify-content-center.align-items-center.mb-0
@@ -264,12 +264,12 @@
             .col-lg-4.col-10
               img.mb-0(src="@/assets/curso/tema1/img30.svg")
 
-    h4.mb-5 A continuación, en la tabla 2, se puede encontrar un resumen con las principales características de las redes blockchain.
+    h4.mb-5 A continuación, en la tabla 2, se puede encontrar un resumen con las principales características de las redes <i>blockchain</i>.
 
     .row.justify-content-center.align-items-center.mb-0
       .col-lg-10.col-12
         .titulo-sexto.color-acento-contenido(data-aos="fade-left")
-          p.titulo <b>Tabla 2.</b> <i>Tipos de redes blockchain</i>
+          p.titulo <b>Tabla 2.</b> <i>Tipos de redes <i>blockchain</i></i>
 
         .tabla-a.mb-5 
           table
@@ -283,19 +283,19 @@
                 th.text-white Velocidad de transmisión
             tbody
               tr
-                td(style="vertical-align: top;") Blockchain Publicas
+                td(style="vertical-align: top;") <i><i>Blockchain</i></i> Publicas
                 td(style="vertical-align: top;") - Cualquiera
                 td(style="vertical-align: top;") - Sin permiso<br>- Anónima
                 td(style="vertical-align: top;") Mecanismos de consenso descentralizados:<br><br>- Prueba de trabajo<br>- Prueba de participación
                 td(style="vertical-align: top;") Lenta
               tr
-                td(style="vertical-align: top;") Blockchain Privadas
+                td(style="vertical-align: top;") <i>Blockchain</i> Privadas
                 td(style="vertical-align: top;") -  Una única organización
                 td(style="vertical-align: top;") - Con permisos<br>- Identidades conocidas
                 td(style="vertical-align: top;") Algoritmos de consenso propios:<br><br>-  Transacciones verificadas dentro de una organización (centralizado)
                 td(style="vertical-align: top;") Más ágil y rápida
               tr
-                td(style="vertical-align: top;") Blockchain Federadas o de Consorcio 
+                td(style="vertical-align: top;") <i>Blockchain</i> Federadas o de Consorcio 
                 td(style="vertical-align: top;") - Organizaciones múltiples seleccionadas
                 td(style="vertical-align: top;") - Con permisos<br>- Identidades conocidas
                 td(style="vertical-align: top;") Algoritmos de consenso propios:<br><br>- Varios nodos preseleccionados dentro de las organizaciones (parcialmente descentralizados)

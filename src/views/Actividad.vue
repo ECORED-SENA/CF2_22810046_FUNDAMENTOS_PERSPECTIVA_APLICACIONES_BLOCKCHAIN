@@ -13,7 +13,7 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Afianzando conceptos  
-        p.mb-4 Recordar lo aprendido sobre la arquitectura de blockchain
+        p.mb-4 Recordar lo aprendido sobre la arquitectura de <i><i>blockchain</i></i>
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
