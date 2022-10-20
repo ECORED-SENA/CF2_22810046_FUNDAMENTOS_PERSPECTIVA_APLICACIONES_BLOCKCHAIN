@@ -52,7 +52,7 @@
         .bloque-texto-g__texto.p-4
           p.mb-0 La tecnología blockchain, actualmente está conformada por seis  (6) capas con las que se cuenta para ofrecer los servicios, estas capas se pueden apreciar en el siguiente recurso educativo:
 
-      TabsC.color-primario.position-relative
+      TabsC.color-acento-contenido.position-relative
         .row.justify-content-around.align-items-center.py-3.py-md-4(titulo="Capa de red")
           .col-lg-6.col-12
             h3.mb-4 Capa de red

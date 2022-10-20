@@ -271,35 +271,35 @@
         .titulo-sexto.color-acento-contenido(data-aos="fade-left")
           p.titulo <b>Tabla 2.</b> <i>Tipos de redes blockchain</i>
 
-    .tabla-a.mb-5 
-      table
-        caption Nota. Adaptado de Grupo Garatú (2018).
-        thead(style="border-top: 0px solid;")
-          tr.cabecara-tabla
-            th 
-            th.text-white Acceso
-            th.text-white Participantes
-            th.text-white Seguridad
-            th.text-white Velocidad de transmisión
-        tbody
-          tr
-            td(style="vertical-align: top;") Blockchain Publicas
-            td(style="vertical-align: top;") - Cualquiera
-            td(style="vertical-align: top;") - Sin permiso<br>- Anónima
-            td(style="vertical-align: top;") Mecanismos de consenso descentralizados:<br><br>- Prueba de trabajo<br>- Prueba de participación
-            td(style="vertical-align: top;") Lenta
-          tr
-            td(style="vertical-align: top;") Blockchain Privadas
-            td(style="vertical-align: top;") -  Una única organización
-            td(style="vertical-align: top;") - Con permisos<br>- Identidades conocidas
-            td(style="vertical-align: top;") Algoritmos de consenso propios:<br><br>-  Transacciones verificadas dentro de una organización (centralizado)
-            td(style="vertical-align: top;") Más ágil y rápida
-          tr
-            td(style="vertical-align: top;") Blockchain Federadas o de Consorcio 
-            td(style="vertical-align: top;") - Organizaciones múltiples seleccionadas
-            td(style="vertical-align: top;") - Con permisos<br>- Identidades conocidas
-            td(style="vertical-align: top;") Algoritmos de consenso propios:<br><br>- Varios nodos preseleccionados dentro de las organizaciones (parcialmente descentralizados)
-            td(style="vertical-align: top;") Más ágil y rápida
+        .tabla-a.mb-5 
+          table
+            caption Nota. Adaptado de Grupo Garatú (2018).
+            thead(style="border-top: 0px solid;")
+              tr.cabecara-tabla
+                th 
+                th.text-white Acceso
+                th.text-white Participantes
+                th.text-white Seguridad
+                th.text-white Velocidad de transmisión
+            tbody
+              tr
+                td(style="vertical-align: top;") Blockchain Publicas
+                td(style="vertical-align: top;") - Cualquiera
+                td(style="vertical-align: top;") - Sin permiso<br>- Anónima
+                td(style="vertical-align: top;") Mecanismos de consenso descentralizados:<br><br>- Prueba de trabajo<br>- Prueba de participación
+                td(style="vertical-align: top;") Lenta
+              tr
+                td(style="vertical-align: top;") Blockchain Privadas
+                td(style="vertical-align: top;") -  Una única organización
+                td(style="vertical-align: top;") - Con permisos<br>- Identidades conocidas
+                td(style="vertical-align: top;") Algoritmos de consenso propios:<br><br>-  Transacciones verificadas dentro de una organización (centralizado)
+                td(style="vertical-align: top;") Más ágil y rápida
+              tr
+                td(style="vertical-align: top;") Blockchain Federadas o de Consorcio 
+                td(style="vertical-align: top;") - Organizaciones múltiples seleccionadas
+                td(style="vertical-align: top;") - Con permisos<br>- Identidades conocidas
+                td(style="vertical-align: top;") Algoritmos de consenso propios:<br><br>- Varios nodos preseleccionados dentro de las organizaciones (parcialmente descentralizados)
+                td(style="vertical-align: top;") Más ágil y rápida
 </template>
 
 <script>
