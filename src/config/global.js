@@ -315,7 +315,7 @@ export default {
         'Tudela Díaz, I. (2019). Arquitectura <i>blockchain</i> para la securización de dispositivos <i>IOT</i> mediante <i>smart contracts</i>. [Tesis de pregrado,  Ingenieria en Tecnologías de la Telecomunicación. Universidad de Vigo, para optar al título de +',
       tipo: 'Tesis de grado',
       link:
-        'http://castor.det.uvigo.es:8080/xmlui/bitstream/handle/123456789/345/TFG%20Iago%20Tudela%20D%c3%adaz.pdf?sequence=1&isAllowed=y ',
+        'http://castor.det.uvigo.es:8080/xmlui/bitstream/handle/123456789/345/TFG%20Iago%20Tudela%20D%c3%adaz.pdf?sequence=1&isAllowed=y',
     },
   ],
   creditos: {

@@ -43,8 +43,8 @@
               p.mb-0 <b>La primera Etapa <i>Frontier</i></b> surgió con el lanzamiento de <i>Ethereum</i> a mediados de julio del 2015, y esta etapa aborda la forma más básica de <i>Ethereum</i>, para conocer detalles de esta etapa, se invita a ver el siguiente recurso: 
         
     figure.mb-5(data-aos="fade-right") 
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      .video      
+        iframe(width="1280" height="720" src="https://www.youtube.com/embed/V1Q7d_3GDnA" title="Ethereum: primera etapa Frontier" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     p.mb-5 Continuando con <b>la segunda Etapa <i>Homestead</i></b>, esta etapa de <i>Ethereum</i>, salió a la luz pública bajo la figura de versión estable aproximadamente en marzo de 2016.
 
@@ -112,7 +112,7 @@
                   p.mb-0 <b>Función “<i>Revert</i>” (revertir):</b> permite a los contratos volver a su estado inicial sin necesidad de consumir todo el gas del contrato. Además, el gas no utilizado en el contrato será devuelto al creador del contrato.
                 li 
                   i.fas.fa-pen-square.fa-lg
-                  p.mb-0 <b>Reducción de las recompensas:</b> recibidas por los mineros de cada bloque, que pasa de los 5 <i>Ether</i> por bloque minado a 3 <i>Ether</i>.
+                  p.mb-0 <b>Función es “<i>Return data</i>”:</b> Permite a los contratos no necesariamente volver a su estado inicial, sino modificar solo pequeños datos que no tengan un consumo de <i>gas</i> tan grande como el de volver al estado inicial, si la función "<i>revert</i>" devuelve al estado original el contrato inteligente, la funcion "<i>return data</i>" solo modifica pequeñas partes del contrato.
 
             .div(numero="3" titulo="Implementación de los <i>ZK-Snarks</i>")
               <br>
@@ -157,8 +157,8 @@
       <br>
       <br>
       figure.mb-0(data-aos="fade-right") 
-        .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        .video        
+          iframe(width="1280" height="720" src="https://www.youtube.com/embed/LxH4JhZTSTQ" title="Instalación y configuración básica de una red de bloques basada en Ethereum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 </template>
 
 <script>

@@ -43,7 +43,7 @@
               .row.justify-content-center.align-items-center.mb-0
                 .col-lg-10.col-12.position-relative                  
                   h3.mb-4 Bondades del <i>Metaverso</i>
-                  p.mb-4 busca ofrecer contenido selectivo de acuerdo a los usuarios consumidores como los expertos en arte, música, viajes.
+                  p.mb-4 También busca ofrecer contenido selectivo de acuerdo a los usuarios consumidores como los expertos en arte, música, viajes.
                   p.mb-lg-0.mb-3 Además, los usuarios tendrán la capacidad de generar su identidad propia dentro del mismo <i>metaverso</i>, permitiéndoles sentirse mejor identificados a partir de avatares y <i>NFT</i> dentro de este nuevo escenario, así como del entorno de los juegos que ahora le permitirán participar y mejorar la experiencia de los jugadores. 
 
             .col-lg-3.col-10
@@ -105,7 +105,7 @@
         h4.mb-0.text-white.d-inline.p-3(style="background-color:#1565c0") <b>Economía de <i>token</i> – Modelo de negocio de <i>token</i> de utilidad</b>
       .row.justify-content-center.align-items-center.mb-4        
         .col-lg-9.col-12
-          p.mb-4 Este modelo prevalece en la industria. Actualmente, hay gran cantidad de startups, negocios o comercio electrónico que utilizan el modelo de <i>blockchain</i> basado en utilidades.
+          p.mb-4 Este modelo prevalece en la industria. Actualmente, hay gran cantidad de <i>startups</i>, negocios o comercio electrónico que utilizan el modelo de <i>blockchain</i> basado en utilidades.
           div.d-flex.align-items-center.mb-4
             div.p-0
               img.mb-0(style="width:31px" src="@/assets/curso/tema3/vineta1.png")
@@ -130,7 +130,7 @@
             div.px-2
               p.mb-0 <b>En este momento, <i>Microsoft</i> (<i>Azure</i>), <i>Amazon</i> (<i>AWS</i>), <i>IBM</i> (<i>BlueMix</i>), etc. ofrecen <i>blockchain</i> como un servicio (<i>BaaS</i>) y son el ejemplo perfecto de empresas descentralizadas.</b>
 
-    p.mb-4 Los usuarios finales (en este caso, empresas, startups u organizaciones) no tienen que preocuparse por cómo funciona la <i>blockchain</i> y no necesitan configurarlo antes de trabajar en ello. <i>BaaS</i> también elimina la necesidad de <i>hardware</i>, lo que, a su vez, permite que las startups, empresas u organizaciones se centren en su ciclo de desarrollo.
+    p.mb-4 Los usuarios finales (en este caso, empresas, <i>startups</i> u organizaciones) no tienen que preocuparse por cómo funciona la <i>blockchain</i> y no necesitan configurarlo antes de trabajar en ello. <i>BaaS</i> también elimina la necesidad de <i>hardware</i>, lo que, a su vez, permite que las <i>startups</i>, empresas u organizaciones se centren en su ciclo de desarrollo.
     .cajon.color-acento-botones.p-4.mb-4
       p.mb-0 La mayoría de las soluciones de <i>blockchain</i> actuales, incluyendo <i>Bitcoin</i> y <i>Ethereum</i>, se pueden servir como servicio. Un ejemplo de ello incluye <i>EBaas</i>, <i>Ethereum</i> <i><i>Blockchain</i></i> <i>as a Service</i> (<i>EBaaS</i>). El servicio es administrado y proporcionado por <i>Microsoft</i> en colaboración con <i>ConsenSys</i>.
 
@@ -288,7 +288,7 @@
             img.mb-lg-0.mb-3(src="@/assets/curso/tema5/img27.png")
           .col-lg-6.col-12
             h3.mb-4 <i>Oasis Wallet</i>
-            p.mb-0 Disponible en: https://<i>wallet</i>.oasisprotocol.or. Esta billetera es propia del proyecto Rose, y sus monedas y <i>tokens</i> asociados a sus redes.
+            p.mb-0 Disponible en: https://<i>wallet</i>.oasisprotocol.org. Esta billetera es propia del proyecto Rose, y sus monedas y <i>tokens</i> asociados a sus redes.
 
     .fondo5.pt-5
       div.p-0.mb-5
@@ -372,6 +372,9 @@
         .col-lg-8.col-12
           h3.mb-4 <i>Chromia</i>
           p.mb-0 Disponible en: https://chromia.com esta es una plataforma de <i>blockchain</i> que permite a las personas construir aplicaciones descentralizadas en el mundo real, presenta herramientas y soluciones como bases de datos basadas en <i>blockchain</i>.
+
+    p.mb-4 Como se ha podido demostrar, el <i>blockchain</i> ha llevado años en desarrollo y aunque se había escuchado poco, se puede ver que ya tiene un gran camino ganado, más ahora que entra en auge la tendencia de la <i>web 3.0</i> la cual tiene como uno de sus pilares el <i>blockchain</i> y se puede involucrar estas propuestas y muchas más que se pueden encontrar.
+    p.mb-0 Se puedes continuar explorando esta tecnología de <i>blockchain</i> y sus proyectos asociados, los cuales serán parte de la nueva generación, así como a explorar alternativas de formación en desarrollo para <i>blockchain</i>.
 
 </template>
 

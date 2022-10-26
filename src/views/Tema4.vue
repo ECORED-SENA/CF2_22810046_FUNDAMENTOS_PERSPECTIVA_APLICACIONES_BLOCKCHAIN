@@ -91,7 +91,7 @@
           img.mb-0(src="@/assets/curso/tema4/img03.png")
       p.mb-5 En comparación con los contratos tradicionales se puede ver una marcada diferencia que nos invita a estudiar la posibilidad de adopción de esta tecnología, en la siguiente gráfica se puede encontrar un paralelo que permite identificar la gran diferencia de los tipos de contratos (ver tabla 3).
 
-    .row.justify-content-center.align-items-center.mb-0
+    .row.justify-content-center.align-items-center.mb-5
       .col-lg-10.col-12 
         .titulo-sexto.color-acento-contenido(data-aos="fade-left")
           p.titulo <b>Tabla 3.</b> <i>Comparación contratos tradicionales vs contratos inteligentes </i>
@@ -136,6 +136,9 @@
                   img.mb-0(style="width:43px" src="@/assets/curso/tema4/img18.svg")
                 td <b>Necesita abogado</b>
                 td <b>Abogado puede no ser necesario </b>
+        
+    
+    p.mb-0 El funcionamiento de un contrato inteligente está regido por un simple "si/cuando... entonces...", instrucciones de código que están escritas en código en una cadena de bloques. Una red de computadoras ejecuta las acciones, cuando se han cumplido y verificado las condiciones predeterminadas. Estas acciones podrían incluir liberar fondos a las partes apropiadas, registrar un vehículo, enviar notificaciones o emitir un boleto. Luego, la cadena de bloques se actualiza cuando se completa la transacción. Eso significa que la transacción no se puede cambiar y solo las partes a las que se les ha otorgado permiso pueden ver los resultados.
 
     Separador   
     #t_4_2.titulo-segundo.color-acento-contenido
@@ -149,7 +152,7 @@
 
     .fondo2
       .titulo-sexto.color-acento-contenido(data-aos="fade-left")
-          p.titulo <b>Tabla 4.</b> <i>Tabla4. Ejemplos de uso de contratos inteligentes </i>
+          p.titulo <b>Tabla 4.</b> <i>Ejemplos de uso de contratos inteligentes </i>
 
       .tabla-a.mb-0.position-relative.mb-5
           table
@@ -200,7 +203,7 @@
                 td(style="vertical-align:top") <b>La unidad de la corporación emite sus propios bonos y los compradores controlan pagos a través de un libro mayor compartido.</b>
                 td(style="vertical-align:top") <b>Vehículos autónomos realizan entregas p2p, pagan tarifas de peajes locales y compran electricidad local.</b>
                 td(style="vertical-align:top") <b>Los colonos de un área previamente deshabitad codifican sus propios servicios gubernamentales autoimpuestos. </b>
-                td(style="vertical-align:top") <b>Grupo de colonos de diferentes áres establecen todos los acuerdos comerciales de cumplimiento .</b>
+                td(style="vertical-align:top") <b>Grupo de colonos de diferentes áreas establecen todos los acuerdos comerciales de cumplimiento .</b>
 
       br
       div.p-0.mb-4

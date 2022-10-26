@@ -63,7 +63,7 @@
                 .col-lg-8.col-12
                   p.mb-0 Para entender un poco el concepto puedes imaginar un servicio electrónico que utilice a diario, como <i>Facebook</i>, <i>YouTube</i> o <i>Twitter</i> los cuales están controlados por una unidad quien es la que valida y aprueba todos los cambios sobre los elementos de la red, ¿qué pasaría si este nodo no es capaz de operar?, lo más probable es que se presenten intermitencias en el servicio indisponiendo la continuidad del mismo. 
 
-            .div(numero="1" titulo="Descentralizado")
+            .div(numero="2" titulo="Descentralizado")
               p.mb-4 Este concepto tomó fuerza con el surgimiento del <i>blockchain</i> a mediados del año 2009, busca independencia y autonomía entre nodos.
 
               .row.justify-content-center.align-items-center.mb-0
@@ -82,87 +82,146 @@
 
     p.mb-4 Se pueden resaltar dos tipos de algoritmos como los más representativos: <i>PoW</i> (<i>Proof of Work</i>), como se explica a continuación:
 
-    .fondo7.p-4.mb-5      
-      SlyderA(tipo="b")
-        .row.justify-content-center.align-items-center.mb-0.pt-4
-          .col-lg-3.col-10
-            img.mb-lg-0.mb-3(src="@/assets/curso/tema1/img09.svg")
-          .col-lg-8.col-12                  
-            .row.justify-content-center.align-items-center.mb-0
-              .col-lg-10.col-12.position-relative
-                img.mb-0.position-absolute(style="width:201px; top:-115px; left:-85px;" src="@/assets/curso/tema1/img17.png")  
-                h4 <i>PoW</i> (<i>Proof of Work</i>)
-                p.mb-0 Se conoce como el algoritmo inicial de <i>blockchain</i> y fue implementado junto con <i>Bitcoin</i>, este algoritmo es utilizado por los mineros o validadores para el desarrollo de las funciones en las transacciones sometiendo a <i>hash</i> los datos almacenados en los bloques y así proporcionar una solución valida.
+    .fondo9
+      .fondo7.p-4.mb-5.position-relative      
+        SlyderA(tipo="b")
+          .row.justify-content-center.align-items-center.mb-0.pt-4
+            .col-lg-3.col-10
+              img.mb-lg-0.mb-3(src="@/assets/curso/tema1/img09.svg")
+            .col-lg-8.col-12                  
+              .row.justify-content-center.align-items-center.mb-0
+                .col-lg-10.col-12.position-relative
+                  img.mb-0.position-absolute(style="width:201px; top:-115px; left:-85px;" src="@/assets/curso/tema1/img17.png")  
+                  h4 <i>PoW</i> (<i>Proof of Work</i>)
+                  p.mb-0 Se conoce como el algoritmo inicial de <i>blockchain</i> y fue implementado junto con <i>Bitcoin</i>, este algoritmo es utilizado por los mineros o validadores para el desarrollo de las funciones en las transacciones sometiendo a <i>hash</i> los datos almacenados en los bloques y así proporcionar una solución valida.
 
-        .row.justify-content-center.align-items-center.mb-0.pt-4
-          .col-lg-8.col-12                  
-            .row.justify-content-center.align-items-center.mb-0
-              .col-lg-10.col-12.position-relative
-                img.mb-0.position-absolute(style="width:201px; top:-115px; left:-85px;" src="@/assets/curso/tema1/img18.png")  
-                h4 <i>PoS</i> (Proof of Stake)
-                p.mb-lg-0.mb-3 Se implementó al inicio del <i>Bitcoin</i> como una alternativa a <i>Proof of Work</i>. En este sistema no existe un concepto de mineros o validadores, <i>hardware</i> especializado o consumo masivo de energía. Todo lo que se necesita es una PC normal.
-          .col-lg-3.col-10
-            img.mb-0(src="@/assets/curso/tema1/img10.svg")
+          .row.justify-content-center.align-items-center.mb-0.pt-4
+            .col-lg-8.col-12                  
+              .row.justify-content-center.align-items-center.mb-0
+                .col-lg-10.col-12.position-relative
+                  img.mb-0.position-absolute(style="width:201px; top:-115px; left:-85px;" src="@/assets/curso/tema1/img18.png")  
+                  h4 <i>PoS</i> (Proof of Stake)
+                  p.mb-lg-0.mb-3 Se implementó al inicio del <i>Bitcoin</i> como una alternativa a <i>Proof of Work</i>. En este sistema no existe un concepto de mineros o validadores, <i>hardware</i> especializado o consumo masivo de energía. Todo lo que se necesita es una PC normal.
+            .col-lg-3.col-10
+              img.mb-0(src="@/assets/curso/tema1/img10.svg")
 
-        .row.justify-content-center.align-items-center.mb-0.pt-4
-          .col-lg-3.col-10
-            img.mb-lg-0.mb-3(src="@/assets/curso/tema1/img11.svg")
-          .col-lg-8.col-12                  
-            .row.justify-content-center.align-items-center.mb-0
-              .col-lg-10.col-12.position-relative
-                img.mb-0.position-absolute(style="width:201px; top:-105px; left:-85px;" src="@/assets/curso/tema1/img19.png")  
-                h4 <i>POW</i>+<i>POS</i>
-                p.mb-0 Combina los dos algoritmos anteriormente presentados. En <i>PoW</i> se necesita recursos externos como hardwares de minería para completar los procesos. En <i>PoS</i> no es necesario. A través del protocolo de la Prueba de Trabajo (<i>PoW</i>), los mineros resuelven problemas matemáticos. Por dicho trabajo éstos obtienen una recompensa por agregar un bloque verificado a la <i>blockchain</i>.
+          .row.justify-content-center.align-items-center.mb-0.pt-4
+            .col-lg-3.col-10
+              img.mb-lg-0.mb-3(src="@/assets/curso/tema1/img11.svg")
+            .col-lg-8.col-12                  
+              .row.justify-content-center.align-items-center.mb-0
+                .col-lg-10.col-12.position-relative
+                  img.mb-0.position-absolute(style="width:201px; top:-105px; left:-85px;" src="@/assets/curso/tema1/img19.png")  
+                  h4 <i>POW</i>+<i>POS</i>
+                  p.mb-0 Combina los dos algoritmos anteriormente presentados. En <i>PoW</i> se necesita recursos externos como hardwares de minería para completar los procesos. En <i>PoS</i> no es necesario. A través del protocolo de la Prueba de Trabajo (<i>PoW</i>), los mineros resuelven problemas matemáticos. Por dicho trabajo éstos obtienen una recompensa por agregar un bloque verificado a la <i>blockchain</i>.
 
-        .row.justify-content-center.align-items-center.mb-0.pt-4
-          .col-lg-8.col-12                  
-            .row.justify-content-center.align-items-center.mb-0
-              .col-lg-10.col-12.position-relative
-                img.mb-0.position-absolute(style="width:201px; top:-115px; left:-85px;" src="@/assets/curso/tema1/img20.png")  
-                h4 <i>DPOS</i> (Delegated Proof of Stake)
-                p.mb-lg-0.mb-3 Certificado de participación autorizado. Los poseedores de monedas pueden votar y elegir algunos nodos como representantes para llevar cuentas, similar al sistema del Congreso Nacional de Personas.
-          .col-lg-3.col-10
-            img.mb-0(src="@/assets/curso/tema1/img12.svg")
+          .row.justify-content-center.align-items-center.mb-0.pt-4
+            .col-lg-8.col-12                  
+              .row.justify-content-center.align-items-center.mb-0
+                .col-lg-10.col-12.position-relative
+                  img.mb-0.position-absolute(style="width:201px; top:-115px; left:-85px;" src="@/assets/curso/tema1/img20.png")  
+                  h4 <i>DPOS</i> (Delegated Proof of Stake)
+                  p.mb-lg-0.mb-3 Certificado de participación autorizado. Los poseedores de monedas pueden votar y elegir algunos nodos como representantes para llevar cuentas, similar al sistema del Congreso Nacional de Personas.
+            .col-lg-3.col-10
+              img.mb-0(src="@/assets/curso/tema1/img12.svg")
 
-        .row.justify-content-center.align-items-center.mb-0.pt-4
-          .col-lg-3.col-10
-            img.mb-lg-0.mb-3(src="@/assets/curso/tema1/img13.svg")
-          .col-lg-8.col-12                  
-            .row.justify-content-center.align-items-center.mb-0
-              .col-lg-10.col-12.position-relative
-                img.mb-0.position-absolute(style="width:201px; top:-105px; left:-85px;" src="@/assets/curso/tema1/img21.png")  
-                h4 <i>PBFT</i> (<i>Practical Byzantine Fault Tolerance</i>)
-                p.mb-0 Práctico algoritmo bizantino tolerante a fallas. Todos en la cadena participan en la votación y el resultado se procesa de acuerdo con el algoritmo de consenso bizantino. Hay un problema muy conocido en matemáticas llamado Problema de los generales bizantinos, que es muy interesante, y puede consultar fácilmente en la <i>internet</i>.
+          .row.justify-content-center.align-items-center.mb-0.pt-4
+            .col-lg-3.col-10
+              img.mb-lg-0.mb-3(src="@/assets/curso/tema1/img13.svg")
+            .col-lg-8.col-12                  
+              .row.justify-content-center.align-items-center.mb-0
+                .col-lg-10.col-12.position-relative
+                  img.mb-0.position-absolute(style="width:201px; top:-105px; left:-85px;" src="@/assets/curso/tema1/img21.png")  
+                  h4 <i>PBFT</i> (<i>Practical Byzantine Fault Tolerance</i>)
+                  p.mb-0 Práctico algoritmo bizantino tolerante a fallas. Todos en la cadena participan en la votación y el resultado se procesa de acuerdo con el algoritmo de consenso bizantino. Hay un problema muy conocido en matemáticas llamado Problema de los generales bizantinos, que es muy interesante, y puede consultar fácilmente en la <i>internet</i>.
 
-        .row.justify-content-center.align-items-center.mb-0.pt-4
-          .col-lg-8.col-12                  
-            .row.justify-content-center.align-items-center.mb-0
-              .col-lg-10.col-12.position-relative
-                img.mb-0.position-absolute(style="width:201px; top:-115px; left:-85px;" src="@/assets/curso/tema1/img22.png")  
-                h4 POI (Proof of Importance) 
-                p.mb-lg-0.mb-3 Prueba de importancia. Utiliza la puntuación de importancia de la cuenta para asignar la probabilidad de derechos de contabilidad.
-          .col-lg-3.col-10
-            img.mb-0(src="@/assets/curso/tema1/img14.svg")
+          .row.justify-content-center.align-items-center.mb-0.pt-4
+            .col-lg-8.col-12                  
+              .row.justify-content-center.align-items-center.mb-0
+                .col-lg-10.col-12.position-relative
+                  img.mb-0.position-absolute(style="width:201px; top:-115px; left:-85px;" src="@/assets/curso/tema1/img22.png")  
+                  h4 POI (Proof of Importance) 
+                  p.mb-lg-0.mb-3 Prueba de importancia. Utiliza la puntuación de importancia de la cuenta para asignar la probabilidad de derechos de contabilidad.
+            .col-lg-3.col-10
+              img.mb-0(src="@/assets/curso/tema1/img14.svg")
 
-        .row.justify-content-center.align-items-center.mb-0.pt-4
-          .col-lg-3.col-10
-            img.mb-lg-0.mb-3(src="@/assets/curso/tema1/img15.svg")
-          .col-lg-8.col-12                  
-            .row.justify-content-center.align-items-center.mb-0
-              .col-lg-10.col-12.position-relative
-                img.mb-0.position-absolute(style="width:201px; top:-105px; left:-85px;" src="@/assets/curso/tema1/img23.png")  
-                h4 POI (Proof of Participation) 
-                p.mb-0 Algoritmo de prueba de participación. Es un protocolo de consenso creado para reemplazar al conocido <i>Proof of Work</i> aportando una mejor seguridad y escalabilidad a las redes que lo implementen.
+          .row.justify-content-center.align-items-center.mb-0.pt-4
+            .col-lg-3.col-10
+              img.mb-lg-0.mb-3(src="@/assets/curso/tema1/img15.svg")
+            .col-lg-8.col-12                  
+              .row.justify-content-center.align-items-center.mb-0
+                .col-lg-10.col-12.position-relative
+                  img.mb-0.position-absolute(style="width:201px; top:-105px; left:-85px;" src="@/assets/curso/tema1/img23.png")  
+                  h4 POI (Proof of Participation) 
+                  p.mb-0 Algoritmo de prueba de participación. Es un protocolo de consenso creado para reemplazar al conocido <i>Proof of Work</i> aportando una mejor seguridad y escalabilidad a las redes que lo implementen.
 
-        .row.justify-content-center.align-items-center.mb-0.pt-4
-          .col-lg-8.col-12                  
-            .row.justify-content-center.align-items-center.mb-0
-              .col-lg-10.col-12.position-relative
-                img.mb-0.position-absolute(style="width:201px; top:-115px; left:-85px;" src="@/assets/curso/tema1/img24.png")  
-                h4 <i>P2P</i>
-                p.mb-lg-0.mb-3 Las redes <i>P2P</i> o peer-to-peer, son redes conformadas por personas o dispositivos que operan de manera descentralizada y sin responder a un nodo central, haciendo uso de protocolos de comunicación y consenso común, esta red permite el intercambio de información directa entre lo mismos miembros de la red.
-          .col-lg-3.col-10
-            img.mb-0(src="@/assets/curso/tema1/img16.svg")
+          .row.justify-content-center.align-items-center.mb-0.pt-4
+            .col-lg-8.col-12                  
+              .row.justify-content-center.align-items-center.mb-0
+                .col-lg-10.col-12.position-relative
+                  img.mb-0.position-absolute(style="width:201px; top:-115px; left:-85px;" src="@/assets/curso/tema1/img24.png")  
+                  h4 <i>P2P</i>
+                  p.mb-lg-0.mb-3 Las redes <i>P2P</i> o peer-to-peer, son redes conformadas por personas o dispositivos que operan de manera descentralizada y sin responder a un nodo central, haciendo uso de protocolos de comunicación y consenso común, esta red permite el intercambio de información directa entre lo mismos miembros de la red.
+            .col-lg-3.col-10
+              img.mb-0(src="@/assets/curso/tema1/img16.svg")
+
+      p.mb-5 <b>Las principales ventajas y desventajas que hay en el uso del blockchain están (ver tabla 1):</b>
+
+      .row.justify-content-center.align-items-center.mb-4.position-relative
+        .col-lg-8.col-12  
+            .titulo-sexto.color-acento-contenido(data-aos="fade-left")
+              p.titulo <b>Tabla 1.</b> <i>Ventajas y desventajas de blockchain</i>
+
+            .tabla-a.mb-0
+              table
+                caption Nota. SENA (2022).
+                thead(style="border-top: 0px solid;")
+                  tr.cabecara-tabla                    
+                    th.text-white Desventajas
+                    th.text-white Desventajas
+                    
+                tbody
+                  tr
+                    td(style="vertical-align: top;") Son resistentes a la censura.
+                    td(style="vertical-align: top;") Los usuarios no son anónimos, incluso, si esa red usa cifrado.
+                  tr
+                    td(style="vertical-align: top;") Si un nodo cae, otro nodo puede tomar su lugar y reconstruir la red por completo.
+                    td(style="vertical-align: top;") Entre más grande es la red, mayor latencia entre los nodos.          
+                  tr
+                    td(style="vertical-align: top;") Permiten ofrecer a soluciones de escalabilidad potentes para ofrecer servicios de alcance global.]
+                    td(style="vertical-align: top;") Sus protocolos cuentan con una serie de problemas estructurales conocidos que los hacen vulnerables a cierto tipo de ataques.    
+                  tr
+                    td(style="vertical-align: top;") Brinda una confianza mayor entre los usuarios. 
+                    td(style="vertical-align: top;")           
+                  tr
+                    td(style="vertical-align: top;") Aprovechan el ancho de banda de cada participante, para transformarlo en propio de la red.
+                    td(style="vertical-align: top;")           
+                  tr
+                    td(style="vertical-align: top;") Permiten la transmisión de información digital de cualquier tipo de manera rápida.
+                    td(style="vertical-align: top;")           
+
+
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          
 
     .fondo8.mb-0
       .row.justify-content-center.align-items-center.mb-0
