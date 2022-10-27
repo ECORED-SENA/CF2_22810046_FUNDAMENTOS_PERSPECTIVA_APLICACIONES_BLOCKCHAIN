@@ -312,10 +312,10 @@ export default {
       tema:
         'Capas de la arquitectura (aplicación, <i>ledger</i> o base de datos distribuida, red de igual a igual)',
       referencia:
-        'Tudela Díaz, I. (2019). Arquitectura <i>blockchain</i> para la securización de dispositivos <i>IOT</i> mediante <i>smart contracts</i>. [Tesis de pregrado,  Ingenieria en Tecnologías de la Telecomunicación. Universidad de Vigo, para optar al título de +',
-      tipo: 'Tesis de grado',
+        'Montoya, B. (2021). Propuestas del uso de blockchain con enfoque de aplicación a internet de las cosas (Proyecto de grado, Universidad Tecnológica de Pereira, Pereira).',
+      tipo: 'Repositorio UTP',
       link:
-        'http://castor.det.uvigo.es:8080/xmlui/bitstream/handle/123456789/345/TFG%20Iago%20Tudela%20D%c3%adaz.pdf?sequence=1&isAllowed=y',
+        'https://repositorio.utp.edu.co/server/api/core/bitstreams/0f803508-22bc-4bac-9dcb-c829573d12b2/content',
     },
   ],
   creditos: {
