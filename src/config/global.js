@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Arquitectura de <i><i>Blockchain</i></i>',
     descripcionCurso:
-      'Mediante el presente componente, se identifican los elementos que componen una arquitectura de <i>blockchain</i>, así como las diferentes capas que se involucran en una transacción de información, teniendo en cuenta la cadena de bloques que contiene la información, y su vinculación en red.',
+      'Mediante el presente componente, se identifican los elementos que componen una arquitectura de <i>blockchain</i>, así como las diferentes capas que se involucran en una transacción de información, teniendo en cuenta la cadena de bloques que contiene la información, y su vinculación en red. ',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
