@@ -16,7 +16,7 @@
     .bloque-texto-a.color-primario.p-3.mb-5(data-aos="fade-left") 
         .row.m-0.align-items-center.justify-content-between
           .col-lg-4.mb-lg-0
-            img(src="@/assets/curso/tema4/img01.png")
+            img(src="@/assets/curso/tema4/img01.svg")
           .col-lg-8
             .bloque-texto-a__texto.p-4
               p.mb-0 Los contratos inteligentes, también denominados “<i>Smart Contracts</i>”, han venido cobrando fuerza en todos los ámbitos, y es que hoy en día, con la globalización de la economía, los mercados digitales y el impulso por diversos factores como la pandemia, han llevado a que muchos trámites que requerían de la presencia del interesado, de firmas físicas y papeleo interminable, se reinventen en su forma de realizarse y han encontrado en estos contratos inteligentes la manera de brindar las oportunidades y agilidad para la celebración de acuerdo a partir de transacciones basadas en <i>blockchain</i>.
@@ -207,7 +207,7 @@
                 td(style="vertical-align:top") <b>Grupo de colonos de diferentes áreas establecen todos los acuerdos comerciales de cumplimiento .</b>
 
       br
-      div.p-0.mb-4
+      div.p-0.mb-5
         h4.mb-0.text-white.d-inline.p-3(style="background-color:#1565c0") <b>CONTRATOS INTELIGENTES Y SUS CASOS DE ÉXITO</b>
 
       AcordionA.position-relative.mb-0(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")

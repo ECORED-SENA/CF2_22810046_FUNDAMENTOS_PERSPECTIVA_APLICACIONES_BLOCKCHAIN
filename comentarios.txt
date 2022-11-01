@@ -1,1 +1,5 @@
 H9: Se ha exportado a SVG usado las mejor opcion de exportacion disponible en el XD. Si aun asi no se satisface el hallazgo será necesario escalar al diseñador.
+H11: Se ha exportado a SVG usado las mejor opcion de exportacion disponible en el XD. Si aun asi no se satisface el hallazgo será necesario escalar al diseñador.
+H13: Se ha exportado a SVG usado las mejor opcion de exportacion disponible en el XD. Si aun asi no se satisface el hallazgo será necesario escalar al diseñador.
+H14: Se ha dado al icono el tamaño exacto segun el XD. Sin embargo, no es posible cumplir cpn exactitud con el look y las proporciones dado que el diseño de esta seccion no esta apegado a la regla de las 12 columnas de bootstrap
+H19: Esa parte inferior hace parte de la imagen de fondo y no se logro mediante ningun metodo de exportacion eliminarla. Si se desea corregir jabra que contactar al diseñador.

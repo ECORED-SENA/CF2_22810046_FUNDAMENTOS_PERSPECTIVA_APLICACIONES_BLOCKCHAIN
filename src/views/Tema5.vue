@@ -82,11 +82,11 @@
                   p.mb-4 Desde grandes organizaciones a cualquier persona que tenga acceso a <i>internet</i> y una billetera digital, lo que le ha restado un poco de dependencia no solo de la banca tradicional sino de otras organizaciones en las cuales los usuarios han encontrado una solución a sus necesidades.
                   p.mb-lg-0.mb-3 Las <i>DAO</i> dependen de una serie de mecanismos que garantizan su funcionamiento, como son:
             .col-lg-3.col-10
-              img.mb-0(src="@/assets/curso/tema5/img08.png")
+              img.mb-0(src="@/assets/curso/tema5/img08.svg")
 
     .row.justify-content-center.align-items-center.mb-0
-      .col-lg-2.col-10(style="border-left:14px solid #12263F")
-        img.mb-lg-0.mb-3(src="@/assets/curso/tema5/img09.svg")
+      .col-lg-2.col-10.d-flex.justify-content-center(style="border-left:14px solid #12263F")
+        img.mb-lg-0.mb-3(style="width:118px " src="@/assets/curso/tema5/img09.svg")
       .col-lg-8.col-12
         p.mb-0 <b>Actualmente existe gran cantidad de proyectos en curso que buscan brindar soluciones a diferentes problemáticas, se invita a consultar los detalles de algunos proyectos e identificar algunas aplicaciones para problemáticas reales.</b>
 
@@ -179,7 +179,7 @@
       p.mb-0 La <i>blockchain</i> <i>MediaChain</i> que se vendió a <i>Spotify</i> es un ejemplo perfecto de este tipo de modelo de negocio de <i>blockchain</i>. Se hace para resolver problemas de los derechos de la música dentro de esta industria. Traerá transparencia en el sistema y recompensará más a los creadores de música por usar una plataforma ya establecida.
 
     .fondo5.pt-5
-      div.p-0.mb-5
+      div.p-0.mb-4
         h4.mb-0.text-white.d-inline.p-3(style="background-color:#1565c0") <b>Cargo de tarifa de red</b>
 
       .row.justify-content-center.align-items-center.mb-0.position-relative         
@@ -360,7 +360,7 @@
           p.mb-4 Disponible en https://www.phala.network <i>Phala</i> utiliza la tecnología de Substrate de <i>Polkadot</i> para construir una plataforma <i>blockchain</i> de <i>smarts contracts</i> confidenciales, impulsado por un sistema de producción de bloques que aprovecha el potencial de los <i>CPU</i> y un conjunto de funciones especializadas conocidas como “Enclaves Seguros”. Con esto, <i><i>Phala</i> Network</i> quiere ofrecer a sus usuarios servicios de informática confidencial y protección de datos.
           p.mb-lg-0.mb-3 <i><i>Phala</i> Network</i> actualmente se construye sobre <i>Polkadot</i> y busca hacerse con una de las parachains disponibles en esta red. Además, <i>Phala</i> cuenta con una red canaria de nombre <i>Khala</i>, la cual funciona sobre la red <i>Kusama</i>.
         .col-lg-3.col-10
-          img.mb-0(src="@/assets/curso/tema5/img34.png")
+          img.mb-0(src="@/assets/curso/tema5/img100.png")
 
     .fondo10.pt-5
       div.p-0.mb-5
