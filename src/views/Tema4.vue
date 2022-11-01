@@ -208,7 +208,8 @@
 
       br
       div.p-0.mb-5
-        h4.mb-0.text-white.d-inline.p-3(style="background-color:#1565c0") <b>CONTRATOS INTELIGENTES Y SUS CASOS DE ÉXITO</b>
+        h4.mb-0.text-white.d-inline.p-3.d-none.d-lg-block(style="background-color:#1565c0") <b>CONTRATOS INTELIGENTES Y SUS CASOS DE ÉXITO</b>
+        h4.mb-0.text-white.p-3.d-lg-none(style="background-color:#1565c0") <b>CONTRATOS INTELIGENTES Y SUS CASOS DE ÉXITO</b>
 
       AcordionA.position-relative.mb-0(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
         .row.justify-content-center.align-items-center(titulo="Salud")

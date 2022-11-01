@@ -111,6 +111,7 @@
       <br>
       div.p-0.mb-4
         h4.mb-0.text-white.d-inline.p-3(style="background-color:#1565c0") <b>Economía de <i>token</i> – Modelo de negocio de <i>token</i> de utilidad</b>
+        h4.mb-0.text-white.p-3.d-lg-none(style="background-color:#1565c0") <b>Economía de <i>token</i> – Modelo de negocio de <i>token</i> de utilidad</b>
       .row.justify-content-center.align-items-center.mb-4        
         .col-lg-9.col-12
           p.mb-4 Este modelo prevalece en la industria. Actualmente, hay gran cantidad de <i>startups</i>, negocios o comercio electrónico que utilizan el modelo de <i>blockchain</i> basado en utilidades.
@@ -126,6 +127,7 @@
     
     div.p-0.mb-5
       h4.mb-0.text-white.d-inline.p-3(style="background-color:#1565c0") <b><i><i>Blockchain</i></i> como un modelo de negocio de servicios (<i>BaaS</i>)</b>
+      h4.mb-0.text-white.p-3.d-lg-none(style="background-color:#1565c0") <b><i><i>Blockchain</i></i> como un modelo de negocio de servicios (<i>BaaS</i>)</b>
     .row.justify-content-center.align-items-center.mb-4 
       .col-lg-3.col-10
         img.mb-lg-0.mb-3(src="@/assets/curso/tema5/img12.svg")
@@ -145,6 +147,7 @@
     .fondo5.pt-5
       div.p-0.mb-5
         h4.mb-0.text-white.d-inline.p-3(style="background-color:#1565c0") <b>Plataformas de desarrollo</b>
+        h4.mb-0.text-white.p-3.d-lg-none(style="background-color:#1565c0") <b>Plataformas de desarrollo</b>
 
       .row.justify-content-center.align-items-center.mb-4.position-relative         
         .col-lg-9.col-12
@@ -156,7 +159,7 @@
               .p-4.py-3
                 p.mb-0 <b><i>Hyperledger</i>:</b> proporciona herramientas, marcos y directrices para el desarrollo de <i>blockchain</i>. La clave aquí es el rápido desarrollo, y están tratando de hacer precisamente eso. Otros ejemplos incluyen <i>Tendermint</i> y <i>EthCore</i>.
           <br>
-          .tarjeta-avatar-b.mb-0
+          .tarjeta-avatar-b.mb-lg-0.mb-3
             .tarjeta-avatar-b__img(style="min-width:138px; max-width:138px")
               img(style="width: 84px" src='@/assets/curso/tema5/img15.svg' alt='AvatarTop')
             .tarjeta.tarjeta--azul.tarjeta-sombra(style="padding-left:3%")
@@ -164,12 +167,13 @@
                 p.mb-0 <b><i>BlockApps</i>:</b> una aplicación <i>blockchain</i> de desarrollo empresarial, proporciona una plataforma para lanzar aplicaciones de <i>blockchain</i> empresariales.
 
 
-        .col-lg-3.col-10
+        .col-lg-3.col-8
           img.mb-0(src="@/assets/curso/tema5/img13.svg")
 
     <br>
     div.p-0.mb-5
       h4.mb-0.text-white.d-inline.p-3(style="background-color:#1565c0") <b>Productos basados en <i>software </i>de <i><i>Blockchain</i></i></b>
+      h4.mb-0.text-white.p-3.d-lg-none(style="background-color:#1565c0") <b>Productos basados en <i>software </i>de <i><i>Blockchain</i></i></b>
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-3.col-10
@@ -188,6 +192,7 @@
     .fondo5.pt-5
       div.p-0.mb-4
         h4.mb-0.text-white.d-inline.p-3(style="background-color:#1565c0") <b>Cargo de tarifa de red</b>
+        h4.mb-0.text-white.p-3.d-lg-none(style="background-color:#1565c0") <b>Cargo de tarifa de red</b>
 
       .row.justify-content-center.align-items-center.mb-0.position-relative         
         .col-lg-9.col-12
@@ -204,6 +209,7 @@
     <br>
     div.p-0.mb-5
       h4.mb-0.text-white.d-inline.p-3(style="background-color:#1565c0") <b>Servicios profesionales de <i><i>Blockchain</i></i></b>
+      h4.mb-0.text-white.p-3.d-lg-none(style="background-color:#1565c0") <b>Servicios profesionales de <i><i>Blockchain</i></i></b>
 
     p.mb-4 Estos servicios son proporcionados por compañías de desarrollo líderes en el mercado a empresas nuevas u otras empresas para prepararlos con <i>blockchain</i>. 
     .row.justify-content-center.align-items-center.mb-5
@@ -221,6 +227,7 @@
     .fondo5.pt-5
       div.p-0.mb-5
         h4.mb-0.text-white.d-inline.p-3(style="background-color:#1565c0") <b>Modelo de negocio <i><i>Blockchain</i></i> <i>P2P</i></b>
+        h4.mb-0.text-white.p-3.d-lg-none(style="background-color:#1565c0") <b>Modelo de negocio <i><i>Blockchain</i></i> <i>P2P</i></b>
 
       p.mb-4 El modelo de negocio <i>P2P</i> ofrece un negocio impulsado de punto a punto, igual que la tecnología <i>blockchain</i>. 
       .row.justify-content-center.align-items-center.mb-0.position-relative
@@ -246,14 +253,14 @@
                 p.mb-0 <i>IPFS</i>, un sistema de archivos interplanetario aprovecha este modelo de negocio de <i>blockchain</i>. 
 
           <br>
-          .tarjeta-avatar-b.mb-0
+          .tarjeta-avatar-b.mb-lg-0.mb-3
             .tarjeta-avatar-b__img(style="min-width:138px; max-width:138px")
               img(style="width: 84px" src='@/assets/curso/tema5/img22.svg' alt='AvatarTop')
             .tarjeta.tarjeta--azul.tarjeta-sombra(style="padding-left:3%")
               .p-4.py-3
                 p.mb-0 <i>Filecoin</i> también utiliza el modelo de negocio <i>P2P</i> de <i>blockchain</i> al proporcionar una plataforma para el almacenamiento y el intercambio de datos. Para hacerlo viable, cualquiera que almacene los archivos para otros usuarios obtendrá <i>Filecoins</i> por su contribución. Además, hay un <i>software </i>de minería que permitirá a los usuarios compartir su espacio de almacenamiento no utilizado.
 
-        .col-lg-4.col-12
+        .col-lg-4.col-8
           img.mb-0(src="@/assets/curso/tema5/img19.svg")
       <br>
     Separador
@@ -263,13 +270,22 @@
     .fondo6
       .row.justify-content-center.align-items-center.mb-5.position-relative
         .col-12.position-relative
-          img.mb-4(src="@/assets/curso/tema5/img23.png")
-          .row.justify-content-center.align-items-center.mb-5.position-absolute(style="top: 70%")
-            .col-lg-10.col-12.position-relative.fondo7.p-3.px-4
-              p.mb-0 Algunos fundamentos y características del <i>blockchain</i> y a pesar de no presentar su arquitectura una madurez completa, ya se presentan soluciones que día a día vienen brindado soluciones a usuarios y organizaciones a través de aplicaciones y servicios como los descrito anteriormente, a continuación, vamos a estudiar algunas soluciones y su uso dentro del <i>blockchain</i>:
+          img.mb-0(src="@/assets/curso/tema5/img23.png")
+          div.p-0.d-none.d-xl-block
+            .row.justify-content-center.align-items-center.mb-5.position-absolute(style="top:70%")
+              .col-lg-10.col-12.position-relative.fondo7.p-3.px-4
+                p.mb-0 Algunos fundamentos y características del <i>blockchain</i> y a pesar de no presentar su arquitectura una madurez completa, ya se presentan soluciones que día a día vienen brindado soluciones a usuarios y organizaciones a través de aplicaciones y servicios como los descrito anteriormente, a continuación, vamos a estudiar algunas soluciones y su uso dentro del <i>blockchain</i>:
+          div.p-0.d-xl-none 
+            .row.justify-content-center.align-items-center
+              .col-lg-10.col-12.fondo7.p-3.px-4
+                p.mb-0 Algunos fundamentos y características del <i>blockchain</i> y a pesar de no presentar su arquitectura una madurez completa, ya se presentan soluciones que día a día vienen brindado soluciones a usuarios y organizaciones a través de aplicaciones y servicios como los descrito anteriormente, a continuación, vamos a estudiar algunas soluciones y su uso dentro del <i>blockchain</i>:
+
+          
 
       div.p-0.mb-5
         h4.mb-0.text-white.d-inline.p-3(style="background-color:#1565c0") <b><i>Wallets</i></b>
+        h4.mb-0.text-white.p-3.d-lg-none(style="background-color:#1565c0") <b><i>Wallets</i></b>
+
       p.mb-4 Quizás el uso más común dentro del <i>blockchain</i> es el de las <i>wallet</i> o billeteras, y es que su función es la de almacenar las criptomonedas, <i>tokens</i> e incluso <i>NFT</i> para salvaguardarlos y poder hacer uso dentro de cualquier red de cadena de bloques, a continuación, vamos a presentar solo algunas billeteras que se pueden utilizar.
 
       TabsC.color-acento-contenido.position-relative.mb-5 
@@ -301,6 +317,8 @@
     .fondo5.pt-5
       div.p-0.mb-5
         h4.mb-0.text-white.d-inline.p-3(style="background-color:#1565c0") <b>Audio y <i>estreaming</i> </b>
+        h4.mb-0.text-white.p-3.d-lg-none(style="background-color:#1565c0") <b>Audio y <i>estreaming</i> </b>
+
       p.mb-4 Como se ha visto anteriormente, con el <i>blockchain</i> se puede buscar para dar solución a las necesidades de cualquier tipo, y para el caso de los productores musicales y gestores de contenido audiovisual, existen aplicaciones que buscan mejorar la experiencia del usuario, así como de garantizar un mejor rendimiento y monetización de sus recursos.
 
       .row.justify-content-center.align-items-center.mb-5
@@ -352,6 +370,8 @@
     .fondo5.pt-5
       div.p-0.mb-5
         h4.mb-0.text-white.d-inline.p-3(style="background-color:#1565c0") <b>Infraestructura de redes e <i>internet</i> </b>
+        h4.mb-0.text-white.p-3.d-lg-none(style="background-color:#1565c0") <b>Infraestructura de redes e <i>internet</i> </b>
+
       p.mb-5 Otro campo aprovechado por el <i>blockchain</i> es el de la gestión de redes de datos y la gran cantidad de servicios que pueden desprenderse desde esta línea, a continuación, se explorará rápidamente algunos proyectos que pueden ser interesantes para ambientes exigentes y de necesidades especiales.
 
       .row.justify-content-center.align-items-center.mb-5
