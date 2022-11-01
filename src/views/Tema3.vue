@@ -16,7 +16,7 @@
             p.mb-0 <b><i>Ethereum</i> es la plataforma que provee de tecnología de cadena de bloques (<i>blockchain</i>) y proporciona un abanico de aplicaciones para el aprovechamiento en ámbitos financieros, empresariales e industriales. Cuenta con una moneda nativa que es el <i>Ether</i> que es una de las más usadas en el mundo de los criptomercados.</b>
 
       
-      .row.justify-content-center.align-items-center.mb-5
+      .row.justify-content-center.align-items-center.mb-0
         .col-lg-8.col-12
           div.d-flex.align-items-center.mb-4
             div.p-0
@@ -28,6 +28,7 @@
         .col-lg-4.col-10 
           img.mb-0(src="@/assets/curso/tema3/img03.png")
 
+      Separador
       #t_3_1.titulo-segundo.color-acento-contenido
         h2 3.1 Análisis de etapas de <i>Ethereum</i>
 
@@ -130,7 +131,7 @@
     .bloque-texto-a.color-primario.p-3.mb-5(data-aos="fade-left") 
         .row.m-0.align-items-center.justify-content-between
           .col-lg-4.mb-lg-0
-            img(src="@/assets/curso/tema3/img09.png")
+            img(src="@/assets/curso/tema3/img09.svg")
           .col-lg-8
             .bloque-texto-a__texto.p-4
               p.mb-0 Finalmente, la cuarta etapa <i>Serenity</i> viene a ser la última del proyecto Erhereum, con la cual se presume, dará paso definitivo de <i>PoW</i> (Prueba de trabajo) a <i>PoS</i> (Prueba de participación), esta actualización se verá reflejada en lo conocido hasta el momento como <i>Ethereum</i> 2.0, si una fecha específica de lanzamiento, manteniéndose actualmente en desarrollo.
@@ -143,7 +144,7 @@
       h2 3.2 Instalación y Configuración
 
     .fondo3
-      .row.justify-content-center.align-items-center.mb-5.position-relative(style="background-color:#f6f6f6")
+      .row.justify-content-center.align-items-center.mb-5.position-relative(style="background-color:#f4f7fe")
         .col-lg-3.col-12.p-0
           img.mb-lg-0.mb-3(src="@/assets/curso/tema3/img10.png")
           img.mb-lg-0.mb-0.position-absolute(style="width: 52px; top: -35px; left:0.5%" src="@/assets/curso/tema2/deco2.png")

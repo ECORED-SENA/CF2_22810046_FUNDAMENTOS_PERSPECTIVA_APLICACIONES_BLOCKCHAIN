@@ -8,7 +8,7 @@
       h1 Arquitectura de <i>blockchain</i>
 
     .fondo1
-      .row.justify-content-center.align-items-center.mb-5.position-relative(style="background-color:#f6f6f6")
+      .row.justify-content-center.align-items-center.mb-0.position-relative(style="background-color:#f6f6f6")
         .col-lg-3.col-12.p-0
           img.mb-lg-0.mb-3(src="@/assets/curso/tema2/img01.png")
           img.mb-lg-0.mb-0.position-absolute(style="width: 52px; top: -35px; left:0.5%" src="@/assets/curso/tema2/deco2.png")
@@ -18,10 +18,12 @@
         .col-lg-9.col-12
           p.mb-0 El <i>blockchain</i>, está conformado por información almacenada en bloques los cuales están interconectados entre sí dentro de una red, a continuación, se explica la arquitectura de una red <i>blockchain</i> y cómo interactúan en el proceso de consolidar una red de este tipo.
           img.mb-lg-0.mb-0.position-absolute(style="width: 64px; bottom: -42px; right:0%" src="@/assets/curso/tema2/deco1.png")
-      <br>
+      Separador
       #t_2_1.titulo-segundo.color-acento-contenido
         h2 2.1 Conceptos
-      p.mb-4 La tecnología <i>blockchain</i>, llegó para quedarse, es así que se relaciona con la <i>web</i> de última generación, a continuación se ven los principales conceptos relacionados con esta arquitectura en el siguiente recurso educativo:
+      div.p-0.position-relative
+        div.position-absolute(style="top:-5px;  width:390px; height:28px; background-color:#f8f8f8")
+        p.mb-4 La tecnología <i>blockchain</i>, llegó para quedarse, es así que se relaciona con la <i>web</i> de última generación, a continuación se ven los principales conceptos relacionados con esta arquitectura en el siguiente recurso educativo:
 
       .row.justify-content-center.align-items-center.mb-0.position-relative
         .col-lg-5.col-10

@@ -8,13 +8,14 @@
         span 1
       h1 Sistema distribuido y red extendida
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-0
       .col-12.position-relative
         img.mb-4(src="@/assets/curso/tema1/img01.png")
         .row.justify-content-center.align-items-center.mb-5.position-absolute(style="top: 70%")
           .col-lg-10.col-12.position-relative.fondo1.p-3.px-4
             p.mb-0 Un sistema distribuido es aquel en el que los componentes localizados en computadores independientes, e interconectados a través de una red, son capaces de colaborar (comunican y coordinan sus acciones) mediante el paso de mensajes, con el fin de realizar una tarea, aunque ante los usuarios pareciera que se trata de un solo computador.
 
+    Separador
     #t_1_1.titulo-segundo.color-acento-contenido
       h2 1.1 Conceptos
 

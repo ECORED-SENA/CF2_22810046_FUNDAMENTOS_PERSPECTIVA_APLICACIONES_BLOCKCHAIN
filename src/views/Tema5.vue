@@ -9,12 +9,13 @@
     
     .fondo1.p-0
       .fondo2.p-0.position-relative
-        .row.justify-content-center.align-items-center.mb-4
+        .row.justify-content-center.align-items-center.mb-0
           .col-lg-3.col-10  
             img.mb-lg-0.mb-3(src="@/assets/curso/tema5/img01.png")
           .col-lg-9.col-12  
             p.mb-0 El <i>blockchain</i> actualmente es una de las tecnologías disruptivas, innovadoras y que están generando impacto por brindar alternativas para la generación de nuevas experiencias tecnológicas, y a pesar de ser reconocida principalmente por su amplio campo trabajado con criptoactivos, esta cuenta con gran cantidad de proyectos que se encuentran actualmente en fases de desarrollo e implementación, de acuerdo a sus documentos <i>RoadMap</i> permite conocer los beneficios, alcance, forma de apalancamiento financiero e incluso la forma de participar en estos proyectos.
 
+      Separador
       #t_5_1.titulo-segundo.color-acento-contenido
         h2 5.1 Visualización de <i>blockchain</i>
 

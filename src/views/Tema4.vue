@@ -7,8 +7,9 @@
         span 4
       h1 Contratos Inteligentes
 
-    p.mb-5 Los contratos inteligentes se utilizan para automatizar la ejecución de un acuerdo para que todos los participantes puedan estar seguros de inmediato del resultado, sin la participación de ningún intermediario o pérdida de tiempo, se trata de un código escrito en lenguaje de programación que corre en una plataforma segura –<i><i>Blockchain</i></i>– que lo hace inmodificable y autoejecutable, para facilitar, asegurar, hacer cumplir y ejecutar acuerdos registrados entre dos o más partes, a continuación, se dará explicación al respecto:
+    p.mb-0 Los contratos inteligentes se utilizan para automatizar la ejecución de un acuerdo para que todos los participantes puedan estar seguros de inmediato del resultado, sin la participación de ningún intermediario o pérdida de tiempo, se trata de un código escrito en lenguaje de programación que corre en una plataforma segura –<i><i>Blockchain</i></i>– que lo hace inmodificable y autoejecutable, para facilitar, asegurar, hacer cumplir y ejecutar acuerdos registrados entre dos o más partes, a continuación, se dará explicación al respecto:
 
+    Separador
     #t_4_1.titulo-segundo.color-acento-contenido
       h2 4.1 Conceptos
 
