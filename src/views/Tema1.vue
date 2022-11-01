@@ -91,12 +91,13 @@
       .fondo7.p-4.mb-5.position-relative      
         SlyderA(tipo="b")
           .row.justify-content-center.align-items-center.mb-0.pt-4
-            .col-lg-3.col-10
+            .col-lg-3.col-5
               img.mb-lg-0.mb-3(src="@/assets/curso/tema1/img09.svg")
             .col-lg-8.col-12                  
               .row.justify-content-center.align-items-center.mb-0
                 .col-lg-10.col-12.position-relative
-                  img.mb-0.position-absolute(style="width:201px; top:-115px; left:-85px;" src="@/assets/curso/tema1/img17.png")  
+                  img.mb-0.position-absolute.p-0.d-none.d-xl-block(style="width:201px; top:-115px; left:-85px; " src="@/assets/curso/tema1/img17.png")  
+                  img.mb-0.position-absolute.d-xl-none(style="width:201px; top:-250px; left:20px;" src="@/assets/curso/tema1/img17.png")  
                   h4 <i>PoW</i> (<i>Proof of Work</i>)
                   p.mb-0 Se conoce como el algoritmo inicial de <i>blockchain</i> y fue implementado junto con <i>Bitcoin</i>, este algoritmo es utilizado por los mineros o validadores para el desarrollo de las funciones en las transacciones sometiendo a <i>hash</i> los datos almacenados en los bloques y así proporcionar una solución valida.
 
@@ -104,7 +105,8 @@
             .col-lg-8.col-12                  
               .row.justify-content-center.align-items-center.mb-0
                 .col-lg-10.col-12.position-relative
-                  img.mb-0.position-absolute(style="width:201px; top:-115px; left:-85px;" src="@/assets/curso/tema1/img18.png")  
+                  img.mb-0.position-absolute.p-0.d-none.d-xl-block(style="width:201px; top:-115px; left:-85px; " src="@/assets/curso/tema1/img18.png")  
+                  img.mb-0.position-absolute.d-xl-none(style="width:201px; top:-170px; left:20px;" src="@/assets/curso/tema1/img18.png")  
                   h4 <i>PoS</i> (Proof of Stake)
                   p.mb-lg-0.mb-3 Se implementó al inicio del <i>Bitcoin</i> como una alternativa a <i>Proof of Work</i>. En este sistema no existe un concepto de mineros o validadores, <i>hardware</i> especializado o consumo masivo de energía. Todo lo que se necesita es una PC normal.
             .col-lg-3.col-10
@@ -116,7 +118,8 @@
             .col-lg-8.col-12                  
               .row.justify-content-center.align-items-center.mb-0
                 .col-lg-10.col-12.position-relative
-                  img.mb-0.position-absolute(style="width:201px; top:-105px; left:-85px;" src="@/assets/curso/tema1/img19.png")  
+                  img.mb-0.position-absolute.p-0.d-none.d-xl-block(style="width:201px; top:-115px; left:-85px; " src="@/assets/curso/tema1/img19.png")  
+                  img.mb-0.position-absolute.d-xl-none(style="width:201px; top:-250px; left:20px;" src="@/assets/curso/tema1/img19.png")  
                   h4 <i>POW</i>+<i>POS</i>
                   p.mb-0 Combina los dos algoritmos anteriormente presentados. En <i>PoW</i> se necesita recursos externos como hardwares de minería para completar los procesos. En <i>PoS</i> no es necesario. A través del protocolo de la Prueba de Trabajo (<i>PoW</i>), los mineros resuelven problemas matemáticos. Por dicho trabajo éstos obtienen una recompensa por agregar un bloque verificado a la <i>blockchain</i>.
 
@@ -124,7 +127,8 @@
             .col-lg-8.col-12                  
               .row.justify-content-center.align-items-center.mb-0
                 .col-lg-10.col-12.position-relative
-                  img.mb-0.position-absolute(style="width:201px; top:-115px; left:-85px;" src="@/assets/curso/tema1/img20.png")  
+                  img.mb-0.position-absolute.p-0.d-none.d-xl-block(style="width:201px; top:-115px; left:-85px; " src="@/assets/curso/tema1/img20.png")  
+                  img.mb-0.position-absolute.d-xl-none(style="width:201px; top:-130px; left:20px;" src="@/assets/curso/tema1/img20.png")  
                   h4 <i>DPOS</i> (Delegated Proof of Stake)
                   p.mb-lg-0.mb-3 Certificado de participación autorizado. Los poseedores de monedas pueden votar y elegir algunos nodos como representantes para llevar cuentas, similar al sistema del Congreso Nacional de Personas.
             .col-lg-3.col-10
@@ -136,7 +140,8 @@
             .col-lg-8.col-12                  
               .row.justify-content-center.align-items-center.mb-0
                 .col-lg-10.col-12.position-relative
-                  img.mb-0.position-absolute(style="width:201px; top:-105px; left:-85px;" src="@/assets/curso/tema1/img21.png")  
+                  img.mb-0.position-absolute.p-0.d-none.d-xl-block(style="width:201px; top:-115px; left:-85px; " src="@/assets/curso/tema1/img21.png")  
+                  img.mb-0.position-absolute.d-xl-none(style="width:201px; top:-250px; left:20px;" src="@/assets/curso/tema1/img21.png")  
                   h4 <i>PBFT</i> (<i>Practical Byzantine Fault Tolerance</i>)
                   p.mb-0 Práctico algoritmo bizantino tolerante a fallas. Todos en la cadena participan en la votación y el resultado se procesa de acuerdo con el algoritmo de consenso bizantino. Hay un problema muy conocido en matemáticas llamado Problema de los generales bizantinos, que es muy interesante, y puede consultar fácilmente en la <i>internet</i>.
 
@@ -144,7 +149,8 @@
             .col-lg-8.col-12                  
               .row.justify-content-center.align-items-center.mb-0
                 .col-lg-10.col-12.position-relative
-                  img.mb-0.position-absolute(style="width:201px; top:-115px; left:-85px;" src="@/assets/curso/tema1/img22.png")  
+                  img.mb-0.position-absolute.p-0.d-none.d-xl-block(style="width:201px; top:-115px; left:-85px; " src="@/assets/curso/tema1/img22.png")  
+                  img.mb-0.position-absolute.d-xl-none(style="width:201px; top:-180px; left:20px;" src="@/assets/curso/tema1/img22.png")  
                   h4 POI (Proof of Importance) 
                   p.mb-lg-0.mb-3 Prueba de importancia. Utiliza la puntuación de importancia de la cuenta para asignar la probabilidad de derechos de contabilidad.
             .col-lg-3.col-10
@@ -156,7 +162,8 @@
             .col-lg-8.col-12                  
               .row.justify-content-center.align-items-center.mb-0
                 .col-lg-10.col-12.position-relative
-                  img.mb-0.position-absolute(style="width:201px; top:-105px; left:-85px;" src="@/assets/curso/tema1/img23.png")  
+                  img.mb-0.position-absolute.p-0.d-none.d-xl-block(style="width:201px; top:-115px; left:-85px; " src="@/assets/curso/tema1/img23.png")  
+                  img.mb-0.position-absolute.d-xl-none(style="width:201px; top:-350px; left:20px;" src="@/assets/curso/tema1/img23.png")  
                   h4 POI (Proof of Participation) 
                   p.mb-0 Algoritmo de prueba de participación. Es un protocolo de consenso creado para reemplazar al conocido <i>Proof of Work</i> aportando una mejor seguridad y escalabilidad a las redes que lo implementen.
 
@@ -164,7 +171,8 @@
             .col-lg-8.col-12                  
               .row.justify-content-center.align-items-center.mb-0
                 .col-lg-10.col-12.position-relative
-                  img.mb-0.position-absolute(style="width:201px; top:-115px; left:-85px;" src="@/assets/curso/tema1/img24.png")  
+                  img.mb-0.position-absolute.p-0.d-none.d-xl-block(style="width:201px; top:-115px; left:-85px; " src="@/assets/curso/tema1/img24.png")  
+                  img.mb-0.position-absolute.d-xl-none(style="width:201px; top:-150px; left:20px;" src="@/assets/curso/tema1/img24.png")  
                   h4 <i>P2P</i>
                   p.mb-lg-0.mb-3 Las redes <i>P2P</i> o peer-to-peer, son redes conformadas por personas o dispositivos que operan de manera descentralizada y sin responder a un nodo central, haciendo uso de protocolos de comunicación y consenso común, esta red permite el intercambio de información directa entre lo mismos miembros de la red.
             .col-lg-3.col-10
@@ -232,8 +240,8 @@
       .row.justify-content-center.align-items-center.mb-0
         .col-lg-2.col-10
           div.d-flex.justify-content-center
-            img.mb-0(style="width:101px" src="@/assets/curso/tema1/img25.svg")
-        .col-lg-10.col-2
+            img.mb-lg-0.mb-3(style="width:101px" src="@/assets/curso/tema1/img25.svg")
+        .col-lg-10.col-12
           p.mb-0 El <i>hash</i> es un numero generado a partir de un fragmento de información aplicando algoritmos criptográficos, y para el caso del <i>blockchain</i>, dificulta las transacciones fraudulentas.
 
     Separador

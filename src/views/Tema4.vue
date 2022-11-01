@@ -160,13 +160,13 @@
             caption Nota. Adaptado de Shashank (2019).<br>De acuerdo al portal Idealex, en su artículo “Contratos inteligentes: ¿cuáles son sus aplicaciones?”  se puede encontrar algunos casos de éxito en donde se ha incorporado esta tecnología:
             thead(style="border-top: 0px solid;")
               tr.cabecara-tabla
-                th.text-white Intercambio de valores digitales
-                th.text-white Derechos y obligaciones inteligentes
-                th.text-white Contrato inteligente básico
-                th.text-white Contrato inteligente múltiple
-                th.text-white Vendedor presta fondos al comprador para comprar una casa
-                th.text-white Organización autónoma distribuida
-                th.text-white Gobierno autónomo distribuida
+                th.text-white.text-break Intercambio de valores digitales
+                th.text-white.text-break Derechos y obligaciones inteligentes
+                th.text-white.text-break Contrato inteligente básico
+                th.text-white.text-break Contrato inteligente múltiple
+                th.text-white.text-break Vendedor presta fondos al comprador para comprar una casa
+                th.text-white.text-break Organización autónoma distribuida
+                th.text-whitev Gobierno autónomo distribuida
                 th.text-white Sociedad autónoma distribuida
                 
             tbody
@@ -197,14 +197,14 @@
                     img.mb-0(style="width:69px" src="@/assets/curso/tema4/img27.svg")
 
               tr(style="background-color:#f6f6f6")
-                td(style="vertical-align:top") <b>Una simple transacción <i>bitcoin</i>.</b>
-                td(style="vertical-align:top") <b>Consumidor compra un flujo de contenido digital.</b>
-                td(style="vertical-align:top") <b>Propietario bloquea de forma remota al inquilino que no paga.</b>
-                td(style="vertical-align:top") <b>Vendedor presta fondos al comprador para comprar una casa.</b>
-                td(style="vertical-align:top") <b>La unidad de la corporación emite sus propios bonos y los compradores controlan pagos a través de un libro mayor compartido.</b>
-                td(style="vertical-align:top") <b>Vehículos autónomos realizan entregas p2p, pagan tarifas de peajes locales y compran electricidad local.</b>
-                td(style="vertical-align:top") <b>Los colonos de un área previamente deshabitad codifican sus propios servicios gubernamentales autoimpuestos. </b>
-                td(style="vertical-align:top") <b>Grupo de colonos de diferentes áreas establecen todos los acuerdos comerciales de cumplimiento .</b>
+                td.text-break(style="vertical-align:top") <b>Una simple transacción <i>bitcoin</i>.</b>
+                td.text-break(style="vertical-align:top") <b>Consumidor compra un flujo de contenido digital.</b>
+                td.text-break(style="vertical-align:top") <b>Propietario bloquea de forma remota al inquilino que no paga.</b>
+                td.text-break(style="vertical-align:top") <b>Vendedor presta fondos al comprador para comprar una casa.</b>
+                td.text-break(style="vertical-align:top") <b>La unidad de la corporación emite sus propios bonos y los compradores controlan pagos a través de un libro mayor compartido.</b>
+                td.text-break(style="vertical-align:top") <b>Vehículos autónomos realizan entregas p2p, pagan tarifas de peajes locales y compran electricidad local.</b>
+                td.text-break(style="vertical-align:top") <b>Los colonos de un área previamente deshabitad codifican sus propios servicios gubernamentales autoimpuestos. </b>
+                td.text-break(style="vertical-align:top") <b>Grupo de colonos de diferentes áreas establecen todos los acuerdos comerciales de cumplimiento .</b>
 
       br
       div.p-0.mb-5
@@ -257,10 +257,21 @@
     .fondo3
       .row.justify-content-center.align-items-center.mb-5.position-relative
         .col-12.position-relative
-          img.mb-4(src="@/assets/curso/tema4/img33.png")
-          .row.justify-content-center.align-items-center.mb-5.position-absolute(style="top: 65%")
-            .col-lg-10.col-12.position-relative.fondo4.p-3.px-4
-              p.mb-0 El <i>blockchain</i> cuenta además de <i>Ethereum</i> como plataforma base, con un gran número de proyectos que permiten interactuar con las redes de cadenas de bloques, cada proyecto presenta una propuesta tecnológica que contempla la inclusión de servicios, <i>DApps</i>, <i>wallet</i>, infraestructura, finanzas descentralizadas, <i>gaming</i>, <i>NFT</i> entre otras soluciones, a continuación, vamos a conocer las propuestas de algunos proyectos.
+          img.mb-0(src="@/assets/curso/tema4/img33.png")
+          div.p-0.d-none.d-xl-block
+            .row.justify-content-center.align-items-center.mb-5.position-absolute(style="top:70%")
+              .col-lg-10.col-12.position-relative.fondo4.p-3.px-4
+                p.mb-0 El <i>blockchain</i> cuenta además de <i>Ethereum</i> como plataforma base, con un gran número de proyectos que permiten interactuar con las redes de cadenas de bloques, cada proyecto presenta una propuesta tecnológica que contempla la inclusión de servicios, <i>DApps</i>, <i>wallet</i>, infraestructura, finanzas descentralizadas, <i>gaming</i>, <i>NFT</i> entre otras soluciones, a continuación, vamos a conocer las propuestas de algunos proyectos.
+          div.p-0.d-xl-none 
+            .row.justify-content-center.align-items-center
+              .col-lg-10.col-12.fondo4.p-3.px-4
+                p.mb-0 El <i>blockchain</i> cuenta además de <i>Ethereum</i> como plataforma base, con un gran número de proyectos que permiten interactuar con las redes de cadenas de bloques, cada proyecto presenta una propuesta tecnológica que contempla la inclusión de servicios, <i>DApps</i>, <i>wallet</i>, infraestructura, finanzas descentralizadas, <i>gaming</i>, <i>NFT</i> entre otras soluciones, a continuación, vamos a conocer las propuestas de algunos proyectos.
+
+
+      
+
+
+
 
       TabsC.color-acento-contenido.position-relative
         .row.justify-content-evenly.align-items-center.py-3.py-md-4(titulo="Ecosistema <i>Bitcoin</i>")

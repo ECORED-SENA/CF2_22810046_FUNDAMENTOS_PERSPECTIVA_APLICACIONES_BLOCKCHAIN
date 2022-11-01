@@ -9,12 +9,12 @@
 
     .fondo1
       .row.justify-content-center.align-items-center.mb-0.position-relative(style="background-color:#f6f6f6")
-        .col-lg-3.col-12.p-0
+        .col-lg-3.col-8.p-0
           img.mb-lg-0.mb-3(src="@/assets/curso/tema2/img01.png")
           img.mb-lg-0.mb-0.position-absolute(style="width: 52px; top: -35px; left:0.5%" src="@/assets/curso/tema2/deco2.png")
-          img.mb-lg-0.mb-0.position-absolute(style="width: 41px; bottom: -21px; left:2%" src="@/assets/curso/tema2/deco3.png")
-          img.mb-lg-0.mb-0.position-absolute(style="width: 69px; bottom: -10px; left:10%" src="@/assets/curso/tema2/deco4.png")
-          img.mb-lg-0.mb-0.position-absolute(style="width: 52px; bottom: -20px; left:20%" src="@/assets/curso/tema2/deco5.png")
+          img.mb-lg-0.mb-0.position-absolute.d-none.d-lg-block(style="width: 41px; bottom: -21px; left:2%" src="@/assets/curso/tema2/deco3.png")
+          img.mb-lg-0.mb-0.position-absolute.d-none.d-lg-block(style="width: 69px; bottom: -10px; left:10%" src="@/assets/curso/tema2/deco4.png")
+          img.mb-lg-0.mb-0.position-absolute.d-none.d-lg-block(style="width: 52px; bottom: -20px; left:20%" src="@/assets/curso/tema2/deco5.png")
         .col-lg-9.col-12
           p.mb-0 El <i>blockchain</i>, está conformado por información almacenada en bloques los cuales están interconectados entre sí dentro de una red, a continuación, se explica la arquitectura de una red <i>blockchain</i> y cómo interactúan en el proceso de consolidar una red de este tipo.
           img.mb-lg-0.mb-0.position-absolute(style="width: 64px; bottom: -42px; right:0%" src="@/assets/curso/tema2/deco1.png")
@@ -58,44 +58,44 @@
         .row.justify-content-around.align-items-center.py-3.py-md-4(titulo="Capa de red")
           .col-lg-6.col-12
             h3.mb-4 Capa de red
-            p.mb-0 La base de la red <i>blockchain</i> es básicamente una red <i>P2P</i>. Los recursos y servicios se distribuyen en todos los nodos de la red. La transmisión de información y la implementación del servicio se realizan directamente sobre sus nodos sin la necesidad de intermedios, estos nodos facilitan la sincronización de la información posibilitando la actualización de los bloques y manteniendo la red actualizada.
-          .col-lg-3.col-10
+            p.mb-lg-0.mb-3 La base de la red <i>blockchain</i> es básicamente una red <i>P2P</i>. Los recursos y servicios se distribuyen en todos los nodos de la red. La transmisión de información y la implementación del servicio se realizan directamente sobre sus nodos sin la necesidad de intermedios, estos nodos facilitan la sincronización de la información posibilitando la actualización de los bloques y manteniendo la red actualizada.
+          .col-lg-3.col-8
             img.mb-0(src="@/assets/curso/tema2/img05.svg")
 
         .row.justify-content-around.align-items-center.py-3.py-md-4(titulo="Capa de datos")
           .col-lg-6.col-12
             h3.mb-4 Capa de datos
-            p.mb-0 Los datos subyacentes de <i>blockchain</i> están conformados por datos de bloque más la lista enlazada que incluye bloque de datos, estructura de cadena, marca de tiempo, función <i>hash</i>, árbol de <i>Merkle</i>, cifrado asimétrico y otros diseños. Entre ellos, el bloque de datos y la estructura de la cadena se pueden usar como la dirección de mejora de la investigación de la capa de datos en la solución escalable de la tecnología <i>blockchain</i>.
-          .col-lg-3.col-10
+            p.mb-lg-0.mb-3 Los datos subyacentes de <i>blockchain</i> están conformados por datos de bloque más la lista enlazada que incluye bloque de datos, estructura de cadena, marca de tiempo, función <i>hash</i>, árbol de <i>Merkle</i>, cifrado asimétrico y otros diseños. Entre ellos, el bloque de datos y la estructura de la cadena se pueden usar como la dirección de mejora de la investigación de la capa de datos en la solución escalable de la tecnología <i>blockchain</i>.
+          .col-lg-3.col-8
             img.mb-0(src="@/assets/curso/tema2/img06.svg")
 
         .row.justify-content-around.align-items-center.py-3.py-md-4(titulo="Capa de consenso")
           .col-lg-6.col-12
             h3.mb-4 Capa de consenso
-            p.mb-0 Es fundamental para alcanzar un rápido consenso sobre la efectividad de los datos de bloque por nodos altamente descentralizados. Los principales mecanismos de consenso son <i>POW</i> (Prueba de trabajo), <i>POS</i> (Prueba de participación), <i>DPOS</i> (<i>Delegado Proof of Stake</i> confía en el mecanismo de prueba de participación) y <i>PBFT</i> (<i>Practical Byzantine Fault Tolerance</i>), etc., que siempre han sido lo más destacado de las soluciones escalables de la tecnología <i>blockchain</i>.
-          .col-lg-3.col-10
+            p.mb-lg-0.mb-3 Es fundamental para alcanzar un rápido consenso sobre la efectividad de los datos de bloque por nodos altamente descentralizados. Los principales mecanismos de consenso son <i>POW</i> (Prueba de trabajo), <i>POS</i> (Prueba de participación), <i>DPOS</i> (<i>Delegado Proof of Stake</i> confía en el mecanismo de prueba de participación) y <i>PBFT</i> (<i>Practical Byzantine Fault Tolerance</i>), etc., que siempre han sido lo más destacado de las soluciones escalables de la tecnología <i>blockchain</i>.
+          .col-lg-3.col-8
             img.mb-0(src="@/assets/curso/tema2/img07.svg")
 
         .row.justify-content-around.align-items-center.py-3.py-md-4(titulo="Capa de incentivo")
           .col-lg-6.col-12
             h3.mb-4 Capa de incentivo
-            p.mb-0 Es un mecanismo de minería del que todos hablan a menudo. Se utiliza para diseñar un cierto modelo de incentivo económico y alentar a los nodos a participar en la verificación de seguridad de la cadena de bloques, incluido el diseño del mecanismo de emisión y el mecanismo de distribución. Este nivel de mejora no parece estar directamente relacionado con la escalabilidad de la cadena de bloques.
+            p.mb-lg-0.mb-3 Es un mecanismo de minería del que todos hablan a menudo. Se utiliza para diseñar un cierto modelo de incentivo económico y alentar a los nodos a participar en la verificación de seguridad de la cadena de bloques, incluido el diseño del mecanismo de emisión y el mecanismo de distribución. Este nivel de mejora no parece estar directamente relacionado con la escalabilidad de la cadena de bloques.
 
-          .col-lg-3.col-10
+          .col-lg-3.col-8
             img.mb-0(src="@/assets/curso/tema2/img08.svg")
 
         .row.justify-content-around.align-items-center.py-3.py-md-4(titulo="Capa de contrato")
           .col-lg-6.col-12
             h3.mb-4 Capa de contrato
-            p.mb-0 Se refiere principalmente a varios códigos de script, mecanismos de algoritmos y contratos inteligentes. La primera generación de <i>blockchains</i> declaró estrictamente que falta esta capa, por lo que solo se pueden usar para transacciones, pero no se pueden usar en otros campos o para otro procesamiento lógico. La aparición de la capa de contrato hace posible usar <i>blockchain</i> en otros campos. 
-          .col-lg-3.col-10
+            p.mb-lg-0.mb-3 Se refiere principalmente a varios códigos de script, mecanismos de algoritmos y contratos inteligentes. La primera generación de <i>blockchains</i> declaró estrictamente que falta esta capa, por lo que solo se pueden usar para transacciones, pero no se pueden usar en otros campos o para otro procesamiento lógico. La aparición de la capa de contrato hace posible usar <i>blockchain</i> en otros campos. 
+          .col-lg-3.col-8
             img.mb-0(src="@/assets/curso/tema2/img09.svg")
 
         .row.justify-content-around.align-items-center.py-3.py-md-4(titulo="Capa de aplicación")
           .col-lg-6.col-12
             h3.mb-4 Capa de aplicación
-            p.mb-0 Es la capa de visualización de la cadena de bloques, incluidos varios escenarios y casos de aplicación. Por ejemplo, <i>Ethereum</i> usa trufa y <i>web3-js</i>. La capa de aplicación de la cadena de bloques puede ser móvil, <i>web</i> o integrada en un servidor existente, y el servidor comercial actual se considera como la capa de aplicación. Este nivel de mejora también parece proporcionar una nueva dirección potencial para la escalabilidad de <i>blockchain</i>, pero no parece estar directamente relacionado en la estructura.
-          .col-lg-3.col-10
+            p.mb-lg-0.mb-3 Es la capa de visualización de la cadena de bloques, incluidos varios escenarios y casos de aplicación. Por ejemplo, <i>Ethereum</i> usa trufa y <i>web3-js</i>. La capa de aplicación de la cadena de bloques puede ser móvil, <i>web</i> o integrada en un servidor existente, y el servidor comercial actual se considera como la capa de aplicación. Este nivel de mejora también parece proporcionar una nueva dirección potencial para la escalabilidad de <i>blockchain</i>, pero no parece estar directamente relacionado en la estructura.
+          .col-lg-3.col-8
             img.mb-0(src="@/assets/curso/tema2/img10.svg")
 </template>
 

@@ -56,7 +56,8 @@
           .col-lg-8.col-12                  
             .row.justify-content-center.align-items-center.mb-0
               .col-lg-10.col-12.position-relative
-                img.mb-0.position-absolute(style="width:201px; top:-115px; left:-85px;" src="@/assets/curso/tema1/img17.png")                  
+                img.mb-0.position-absolute.d-none.d-lg-block(style="width:201px; top:-115px; left:-85px;" src="@/assets/curso/tema1/img17.png")                  
+                img.mb-0.position-absolute.d-lg-none(style="width:201px; top:-150px; left:20px;" src="@/assets/curso/tema1/img17.png")                  
                 p.mb-4 Al hacerse pública en marzo de 2016, cuando alcanzó 1.150.000 bloques minados, en donde desde la comunidad se podría señalar a esta plataforma como segura.
                 p.mb-lg-0.mb-3 Esta actualización conllevó a que los clientes de la plataforma se actualizarán, tales como <i>Geth</i> entre otros más nodos, ya que, si no realizaban dicha actualización, perderían la capacidad de recibir los beneficios de la nueva red, entre ellos los del minado, perdiendo el esfuerzo realizado en dichas tareas.                
           .col-lg-3.col-10
@@ -68,7 +69,8 @@
           .col-lg-8.col-12                  
             .row.justify-content-center.align-items-center.mb-0
               .col-lg-10.col-12.position-relative
-                img.mb-0.position-absolute(style="width:201px; top:-80px; left:-85px;" src="@/assets/curso/tema1/img18.png")  
+                img.mb-0.position-absolute.d-none.d-lg-block(style="width:201px; top:-80px; left:-85px;" src="@/assets/curso/tema1/img18.png")
+                img.mb-0.position-absolute.d-lg-none(style="width:201px; top:0px; left:20px;" src="@/assets/curso/tema1/img18.png")                  
                 p.mb-4 Esta etapa conllevó a que el coste para la implementación de contratos inteligentes se incrementará con la implementación del <i>GAS</i>, el cual es una comisión por las transacciones similar a la que cobran los bancos tradicionales actualmente.
                 p.mb-3.text-center <b>Costo de transacciones con <i>GAS</i></b>
                 p.mb-4.text-center <b style="color:#1565C0">Envió de 1 Eth 🡺 (1 Eth +</b><b style="color:#FF5422"> 0.0001 Eth de comisión</b> )   <b>=   <span style="height:200px;border:2px solid #FF5422;border-radius:200px">1.0001 Eth</span></b>
@@ -79,7 +81,8 @@
           .col-lg-8.col-12                  
             .row.justify-content-center.align-items-center.mb-0
               .col-lg-10.col-12.position-relative
-                img.mb-0.position-absolute(style="width:201px; top:-115px; left:-85px;" src="@/assets/curso/tema1/img19.png")  
+                img.mb-0.position-absolute.d-none.d-lg-block(style="width:201px; top:-115px; left:-85px;" src="@/assets/curso/tema1/img19.png")                  
+                img.mb-0.position-absolute.d-lg-none(style="width:201px; top:-150px; left:20px;" src="@/assets/curso/tema1/img19.png")                  
                 p.mb-4 También se aseguró que sus clientes pudieran actualizarse sin inconvenientes, de igual forma se incluyó <i>MIST</i>, un navegador robusto basado en <i>Ethereum</i> el cual permitió interactuar fácilmente con su red.
                 p.mb-lg-0.mb-3 Entre otro de los beneficios fue que abrió la posibilidad de ejecutar y gestionar <i>DApps</i> en la red de cadena de bloques para gente que tenía conocimientos técnicos en <i>Ethereum</i>.                
           .col-lg-3.col-10
@@ -145,14 +148,14 @@
 
     .fondo3
       .row.justify-content-center.align-items-center.mb-5.position-relative(style="background-color:#f4f7fe")
-        .col-lg-3.col-12.p-0
+        .col-lg-3.col-8.p-0
           img.mb-lg-0.mb-3(src="@/assets/curso/tema3/img10.png")
           img.mb-lg-0.mb-0.position-absolute(style="width: 52px; top: -35px; left:0.5%" src="@/assets/curso/tema2/deco2.png")
-          img.mb-lg-0.mb-0.position-absolute(style="width: 73px; top: -21px; left:8%" src="@/assets/curso/tema3/deco3.png")
-          img.mb-lg-0.mb-0.position-absolute(style="width: 69px; bottom: -10px; left:6%" src="@/assets/curso/tema2/deco4.png")
-          img.mb-lg-0.mb-0.position-absolute(style="width: 40px; bottom: -20px; left:22%" src="@/assets/curso/tema3/deco4.png")
+          img.mb-lg-0.mb-0.position-absolute.d-none.d-lg-block(style="width: 73px; top: -21px; left:8%" src="@/assets/curso/tema3/deco3.png")
+          img.mb-lg-0.mb-0.position-absolute.d-none.d-lg-block(style="width: 69px; bottom: -10px; left:6%" src="@/assets/curso/tema2/deco4.png")
+          img.mb-lg-0.mb-0.position-absolute.d-none.d-lg-block(style="width: 40px; bottom: -20px; left:22%" src="@/assets/curso/tema3/deco4.png")
         .col-lg-9.col-12
-          p.mb-0 La red de <i>Ethereum</i> está abierta a la creación de nuevos nodos, y en este caso, si se quisiera agregar a la red de bloques, tan solo se debe hacer uso de las herramientas para el enlace, a continuación, se va a realizar la creación de un nodo para la red <i>Ethereum</i>.
+          p.mb-3 La red de <i>Ethereum</i> está abierta a la creación de nuevos nodos, y en este caso, si se quisiera agregar a la red de bloques, tan solo se debe hacer uso de las herramientas para el enlace, a continuación, se va a realizar la creación de un nodo para la red <i>Ethereum</i>.
           img.mb-lg-0.mb-0.position-absolute(style="width: 64px; bottom: -42px; right:0%" src="@/assets/curso/tema2/deco1.png")
 
       <br>
