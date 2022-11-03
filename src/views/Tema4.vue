@@ -1,5 +1,5 @@
 <template lang="pug">
-.curso-main-container.pb-3.tema4
+.curso-main-container.pb-3.tema4.tema
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     .titulo-principal.color-acento-contenido
@@ -156,7 +156,7 @@
           p.titulo <b>Tabla 4.</b> <i>Ejemplos de uso de contratos inteligentes </i>
 
       .tabla-a.mb-0.position-relative.mb-5
-          table
+          table(style="min-width:1240px")
             caption Nota. Adaptado de Shashank (2019).<br>De acuerdo al portal Idealex, en su artículo “Contratos inteligentes: ¿cuáles son sus aplicaciones?”  se puede encontrar algunos casos de éxito en donde se ha incorporado esta tecnología:
             thead(style="border-top: 0px solid;")
               tr.cabecara-tabla
@@ -166,8 +166,8 @@
                 th.text-white.text-break Contrato inteligente múltiple
                 th.text-white.text-break Vendedor presta fondos al comprador para comprar una casa
                 th.text-white.text-break Organización autónoma distribuida
-                th.text-whitev Gobierno autónomo distribuida
-                th.text-white Sociedad autónoma distribuida
+                th.text-white.text-break Gobierno autónomo distribuida
+                th.text-white.text-break Sociedad autónoma distribuida
                 
             tbody
               tr(style="background-color:#f6f6f6")

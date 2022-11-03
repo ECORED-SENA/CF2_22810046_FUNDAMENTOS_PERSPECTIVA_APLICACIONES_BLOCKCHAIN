@@ -245,7 +245,7 @@ export default {
     {
       referencia:
         'Vega Maza, M. (2019). El auge de <i>blockchain</i> y sus posibilidades reales de aplicación en los registros de las administraciones públicas. Revista de <i>Internet</i>, Derecho y Política.',
-      link: 'https://doi.org/10.7238/idp.v0i28.3154 ',
+      link: 'https://raco.cat/index.php/IDP/article/view/373501',
     },
     {
       referencia:
