@@ -208,7 +208,7 @@
 
       br
       div.p-0.mb-5
-        h4.mb-0.text-white.d-inline.p-3.d-none.d-lg-block(style="background-color:#1565c0") <b>CONTRATOS INTELIGENTES Y SUS CASOS DE ÉXITO</b>
+        h4.mb-0.text-white.p-3.d-none.d-lg-inline(style="background-color:#1565c0") <b>CONTRATOS INTELIGENTES Y SUS CASOS DE ÉXITO</b>
         h4.mb-0.text-white.p-3.d-lg-none(style="background-color:#1565c0") <b>CONTRATOS INTELIGENTES Y SUS CASOS DE ÉXITO</b>
 
       AcordionA.position-relative.mb-0(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
@@ -266,7 +266,7 @@
           div.p-0.d-xl-none 
             .row.justify-content-center.align-items-center
               .col-lg-10.col-12.fondo4.p-3.px-4
-                p.mb-0 El <i>blockchain</i> cuenta además de <i>Ethereum</i> como plataforma base, con un gran número de proyectos que permiten interactuar con las redes de cadenas de bloques, cada proyecto presenta una propuesta tecnológica que contempla la inclusión de servicios, <i>DApps</i>, <i>wallet</i>, infraestructura, finanzas descentralizadas, <i>gaming</i>, <i>NFT</i> entre otras soluciones, a continuación, vamos a conocer las propuestas de algunos proyectos.
+                p.mb-0 El <i>blockchain</i> cuenta además de <i>Ethereum</i> como plataforma base, con un gran número de proyectos que permiten interactuar con las redes de cadenas de bloques, cada proyecto presenta una propuesta tecnológica que contempla la inclusión de servicios, <i>DApps</i>, <i>wallet</i>, infraestructura, finanzas descentralizadas, <i>gaming</i>, <i>NFT</i> entre otras soluciones, a continuación, vamos a conocer las propuestas de algunos proyectos.<br><br><br>
 
 
       
