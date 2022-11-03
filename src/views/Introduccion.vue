@@ -15,11 +15,11 @@
           img.mb-lg-0.mb-3(src="@/assets/curso/intro/img01.svg")
         .col-lg-8
           .bloque-texto-a__texto.p-4
-            p.mb-0 Se da la bienvenida al componente formativo “<b>Arquitectura de <i>Blockchain</i></b>". Para comenzar el recorrido por el mismo, se debe visitar el recurso didáctico que se muestra a continuación:
+            p.mb-0 Se da la bienvenida al componente formativo “<b>Soluciones para una arquitectura de <i>Blockchain</i></b>". Para comenzar el recorrido por el mismo, se debe visitar el recurso didáctico que se muestra a continuación:
     
     figure.mb-5(data-aos="fade-right") 
       .video      
-        iframe(width="1280" height="720" src="https://www.youtube.com/embed/jX5sgilqogs" title="Arquitectura de blockchain" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="1280" height="720" src="https://www.youtube.com/embed/jX5sgilqogs" title="Soluciones para una arquitectura de Blockchain" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     p.mb-0 A continuación, se va a reconocer los tipos de redes de <i>blockchain</i> y la estructura de 6 capas que manejan actualmente.
 </template>

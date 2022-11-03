@@ -1,2 +1,1 @@
-module.exports =
-  'Arquitectura de Blockchain'
+module.exports = 'Soluciones para una arquitectura de Blockchain'

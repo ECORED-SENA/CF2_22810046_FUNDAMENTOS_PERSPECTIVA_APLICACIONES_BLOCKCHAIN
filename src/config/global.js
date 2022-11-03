@@ -1,6 +1,7 @@
 export default {
   global: {
-    componenteFormativo: 'Arquitectura de <i><i>Blockchain</i></i>',
+    componenteFormativo:
+      'Soluciones para una arquitectura de <i>Blockchain</i>',
     descripcionCurso:
       'Mediante el presente componente, se identifican los elementos que componen una arquitectura de <i>blockchain</i>, así como las diferentes capas que se involucran en una transacción de información, teniendo en cuenta la cadena de bloques que contiene la información, y su vinculación en red. ',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.png'),
@@ -179,11 +180,11 @@ export default {
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
       },
-      {
-        icono: 'fas fa-download',
-        titulo: 'Descargar material',
-        download: 'downloads/material.zip',
-      },
+      // {
+      //   icono: 'fas fa-download',
+      //   titulo: 'Descargar material',
+      //   download: 'downloads/material.zip',
+      // },
       {
         icono: 'far fa-registered',
         titulo: 'Créditos',
