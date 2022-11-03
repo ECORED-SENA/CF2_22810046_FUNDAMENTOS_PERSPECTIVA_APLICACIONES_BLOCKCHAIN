@@ -296,7 +296,7 @@ export default {
     {
       termino: '<i>Whitepaper</i>',
       significado:
-        'Documento que define un proyecto, su estructura, monetización, reglas de negocio y cronograma de desarrollo',
+        'Documento que define un proyecto, su estructura, monetización, reglas de negocio y cronograma de desarrollo.',
     },
   ],
   complementario: [

@@ -229,7 +229,7 @@
             p.mb-4 Los votos que utilizan contratos inteligentes estarían protegidos por un libro mayor, lo cual es extremadamente difícil de decodificar.
             p.mb-0 Además, los contratos inteligentes podrían aumentar la rotación de votantes, que históricamente es baja debido al sistema ineficiente que requiere que los votantes se alineen, muestren identidad y completen formularios. La votación, cuando se transfiere en línea mediante contratos inteligentes, puede aumentar el número de participantes en un sistema de elección.
 
-        .row.justify-content-center.align-items-center(titulo="Real state")
+        .row.justify-content-center.align-items-center(titulo="<i>Real state</i>")
           .col-lg-3.col-10
             img.mb-lg-0.mb-3(src="@/assets/curso/tema4/img28.png")
           .col-lg-8.col-10

@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 5
-      h1 Arquitectura de <i>blockchain</i>
+      h1 Tendencias de <i>blockchain</i>
     
     .fondo1.p-0
       .fondo2.p-0.position-relative
@@ -44,7 +44,7 @@
               img.mb-lg-0.mb-3(src="@/assets/curso/tema5/img03.png")
             .col-lg-7.col-12.position-relative                  
               h3.mb-4 Tipo de <i>Metaverso</i>
-              p.mb-0 … asistir a eventos virtuales  mejorando la experiencia de vivirlo como si fuera real, consumir recursos como son la moda, calzado, vehículos, en los cuales los usuarios podrían degustar la experiencia antes de su adquisición, mejorando así la expectativa antes de recibir el producto en el mundo real.
+              p.mb-0 Asistir a eventos virtuales  mejorando la experiencia de vivirlo como si fuera real, consumir recursos como son la moda, calzado, vehículos, en los cuales los usuarios podrían degustar la experiencia antes de su adquisición, mejorando así la expectativa antes de recibir el producto en el mundo real.
   
           .row.justify-content-center.align-items-center.mb-0.pt-4
             .col-lg-8.col-12                  
@@ -265,7 +265,7 @@
       <br>
     Separador
     #t_5_3.titulo-segundo.color-acento-contenido
-      h2 5.3 Aplicaciones, casos de estudio.
+      h2 5.3 Aplicaciones, casos de estudio
 
     .fondo6
       .row.justify-content-center.align-items-center.mb-5.position-relative
@@ -274,11 +274,11 @@
           div.p-0.d-none.d-xl-block
             .row.justify-content-center.align-items-center.mb-5.position-absolute(style="top:70%")
               .col-lg-10.col-12.position-relative.fondo7.p-3.px-4
-                p.mb-0 Algunos fundamentos y características del <i>blockchain</i> y a pesar de no presentar su arquitectura una madurez completa, ya se presentan soluciones que día a día vienen brindado soluciones a usuarios y organizaciones a través de aplicaciones y servicios como los descrito anteriormente, a continuación, vamos a estudiar algunas soluciones y su uso dentro del <i>blockchain</i>:
+                p.mb-0 Algunos fundamentos y características del <i>blockchain</i> y a pesar de no presentar su arquitectura una madurez completa, ya se presentan soluciones que día a día vienen brindado soluciones a usuarios y organizaciones a través de aplicaciones y servicios como lo descrito anteriormente, a continuación, vamos a estudiar algunas soluciones y su uso dentro del <i>blockchain</i>:
           div.p-0.d-xl-none 
             .row.justify-content-center.align-items-center
               .col-lg-10.col-12.fondo7.p-3.px-4
-                p.mb-0 Algunos fundamentos y características del <i>blockchain</i> y a pesar de no presentar su arquitectura una madurez completa, ya se presentan soluciones que día a día vienen brindado soluciones a usuarios y organizaciones a través de aplicaciones y servicios como los descrito anteriormente, a continuación, vamos a estudiar algunas soluciones y su uso dentro del <i>blockchain</i>:
+                p.mb-0 Algunos fundamentos y características del <i>blockchain</i> y a pesar de no presentar su arquitectura una madurez completa, ya se presentan soluciones que día a día vienen brindado soluciones a usuarios y organizaciones a través de aplicaciones y servicios como lo descrito anteriormente, a continuación, vamos a estudiar algunas soluciones y su uso dentro del <i>blockchain</i>:
 
           
 
@@ -332,7 +332,7 @@
       .row.justify-content-center.align-items-center.mb-5        
         .col-lg-8.col-12
           h3.mb-4 <i>Tetha</i>      
-          p.mb-lg-0.mb-3 Disponible en: https://www.thetatoken.org.  Es una propuesta para ofrecer un protocolo de streaming basado en <i>blockchain</i> descentralizado, a manera de nodos, permitiendo contar con disponibilidad global de los recursos y reduciendo los costos por transferencias de información, para participar en el proyecto, deben de unirte como dueño de un nodo, el cual requiere de <i>token</i> de $THETA para empezar a ofrecer el servicio en tu región.
+          p.mb-lg-0.mb-3 Disponible en: https://www.thetatoken.org.  Es una propuesta para ofrecer un protocolo de <i>streaming</i> basado en <i>blockchain</i> descentralizado, a manera de nodos, permitiendo contar con disponibilidad global de los recursos y reduciendo los costos por transferencias de información, para participar en el proyecto, deben de unirte como dueño de un nodo, el cual requiere de <i>token</i> de $THETA para empezar a ofrecer el servicio en tu región.
         .col-lg-3.col-10
           img.mb-0(src="@/assets/curso/tema5/img29.png")
 
@@ -348,12 +348,12 @@
           .col-lg-6.col-12
             h3.mb-4 <i>BitPay</i>
             p.mb-0 Disponible en: https://bitpay.co. Ofrece a sus clientes la experiencia de pago sin problemas aceptando varios tipos de criptomonedas, incluidos <i>Bitcoin</i>, <i>Bitcoin</i> <i>Cash</i>, <i>Ethereum</i> y más. También puede aceptar pagos con criptomonedas en persona.
-        .row.justify-content-evenly.align-items-center.py-3.py-md-4(style="background-color: #ffffff" titulo="CoinBase")
+        .row.justify-content-evenly.align-items-center.py-3.py-md-4(style="background-color: #ffffff" titulo="<i>CoinBase</i>")
           .col-lg-3.col-10
             img.mb-lg-0.mb-3(src="@/assets/curso/tema5/img31.png")
           .col-lg-6.col-12
-            h3.mb-4 CoinBase
-            p.mb-0 Disponible en:  https://commerce.coinbase.com. Esta plataforma conocida por ser un exchangue muy utilizado en el mundo, Acepta criptomonedas a través de Coinbase como <i>Bitcoin</i>, <i>Ethereum</i>, Litecoin y <i>Bitcoin</i> <i>Cash</i> en tu <i>e-Commerce</i> a través de esta pasarela de pago con Coinbase.com.
+            h3.mb-4 <i>CoinBase</i>
+            p.mb-0 Disponible en:  https://commerce.coinbase.com. Esta plataforma conocida por ser un exchangue muy utilizado en el mundo, Acepta criptomonedas a través de <i>Coinbase</i> como <i>Bitcoin</i>, <i>Ethereum</i>, Litecoin y <i>Bitcoin</i> <i>Cash</i> en tu <i>e-Commerce</i> a través de esta pasarela de pago con <i>Coinbase</i>.com.
         .row.justify-content-evenly.align-items-center.py-3.py-md-4(style="background-color: #ffffff" titulo="<i>CoinGate</i>")
           .col-lg-3.col-10
             img.mb-lg-0.mb-3(src="@/assets/curso/tema5/img32.png")
@@ -365,7 +365,7 @@
             img.mb-lg-0.mb-3(src="@/assets/curso/tema5/img33.png")
           .col-lg-6.col-12
             h3.mb-4 <i>Coinpayments</i>
-            p.mb-0 Disponible en https://www.coinpayments.net. <i>Coinpayments</i> es una de las pasarelas de pago más grandes del mercado criptográfico. Según su sitio <i>web</i>, ofrece un ecosistema y una liquidación de pagos en tiempo real y fácil de usar, la principal característica es la capacidad de configurar su pasarela de pago facilitando su instalación con plugins y módulos preparados para múltiples <i>e-Commerces</i>, además de eso, <i>Coinpayments</i> funciona en casi todos los países del mundo y también proporciona puntos de venta para transacciones en tiendas físicas mediante criptopagos.
+            p.mb-0 Disponible en https://www.coinpayments.net. <i>Coinpayments</i> es una de las pasarelas de pago más grandes del mercado criptográfico. Según su sitio <i>web</i>, ofrece un ecosistema y una liquidación de pagos en tiempo real y fácil de usar, la principal característica es la capacidad de configurar su pasarela de pago facilitando su instalación con <i>plugins</i> y módulos preparados para múltiples <i>e-Commerces</i>, además de eso, <i>Coinpayments</i> funciona en casi todos los países del mundo y también proporciona puntos de venta para transacciones en tiendas físicas mediante criptopagos.
 
     .fondo5.pt-5
       div.p-0.mb-5

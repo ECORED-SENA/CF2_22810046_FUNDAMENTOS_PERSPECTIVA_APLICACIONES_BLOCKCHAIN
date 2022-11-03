@@ -22,7 +22,7 @@
             div.p-0
               img.mb-0(style="width:110px" src="@/assets/curso/tema3/vineta1.png")
             div.px-2
-              p.mb-0 La plataforma <i>Ethereum</i> fue creada en 2015 por el programador Vitalik Buterin, con la perspectiva de crear un instrumento para aplicaciones descentralizadas y colaborativas. <i>Ether</i> ($ETH), su criptomoneda nativa, es un <i>token</i> que puede ser utilizado en transacciones que usen este software. Al igual que <i>bitcoin</i>, ether hace parte de un sistema financiero autónomo de pares, libre de intervención gubernamental.
+              p.mb-0 La plataforma <i>Ethereum</i> fue creada en 2015 por el programador Vitalik Buterin, con la perspectiva de crear un instrumento para aplicaciones descentralizadas y colaborativas. <i>Ether</i> ($ETH), su criptomoneda nativa, es un <i>token</i> que puede ser utilizado en transacciones que usen este <i>software</i>. Al igual que <i>bitcoin</i>, ether hace parte de un sistema financiero autónomo de pares, libre de intervención gubernamental.
           .cajon.color-acento-botones.p-4.mb-lg-0.mb-3
             p.mb-0 <b>A continuación, se presentan las etapas del desarrollo sobre <i>Ethereum</i> y cómo se puede dar inicio al desarrollo de soluciones bajo esta tecnología.</b>
         .col-lg-4.col-10 
@@ -137,7 +137,7 @@
             img(src="@/assets/curso/tema3/img09.svg")
           .col-lg-8
             .bloque-texto-a__texto.p-4
-              p.mb-0 Finalmente, la cuarta etapa <i>Serenity</i> viene a ser la última del proyecto Erhereum, con la cual se presume, dará paso definitivo de <i>PoW</i> (Prueba de trabajo) a <i>PoS</i> (Prueba de participación), esta actualización se verá reflejada en lo conocido hasta el momento como <i>Ethereum</i> 2.0, si una fecha específica de lanzamiento, manteniéndose actualmente en desarrollo.
+              p.mb-0 Finalmente, la cuarta etapa <i>Serenity</i> viene a ser la última del proyecto <i>Ethereum</i>, con la cual se presume, dará paso definitivo de <i>PoW</i> (Prueba de trabajo) a <i>PoS</i> (Prueba de participación), esta actualización se verá reflejada en lo conocido hasta el momento como <i>Ethereum</i> 2.0, si una fecha específica de lanzamiento, manteniéndose actualmente en desarrollo.
         
     .cajon.color-acento-botones.p-4.mb-lg-0
       p.mb-0 Con esta etapa se busca con <i>Serenity</i>, que viene del inglés “Serenidad”, es precisamente eso: encontrar la estabilidad del proyecto, de la comunidad y de su sistema, consiguiendo expandir la tecnología <i>Ethereum</i> a lo largo y ancho del planeta.

@@ -107,7 +107,7 @@
                 .col-lg-10.col-12.position-relative
                   img.mb-0.position-absolute.p-0.d-none.d-xl-block(style="width:201px; top:-115px; left:-85px; " src="@/assets/curso/tema1/img18.png")  
                   img.mb-0.position-absolute.d-xl-none(style="width:201px; top:-170px; left:20px;" src="@/assets/curso/tema1/img18.png")  
-                  h4 <i>PoS</i> (Proof of Stake)
+                  h4 <i>PoS (Proof of Stake)</i>
                   p.mb-lg-0.mb-3 Se implementó al inicio del <i>Bitcoin</i> como una alternativa a <i>Proof of Work</i>. En este sistema no existe un concepto de mineros o validadores, <i>hardware</i> especializado o consumo masivo de energía. Todo lo que se necesita es una PC normal.
             .col-lg-3.col-10
               img.mb-0(src="@/assets/curso/tema1/img10.svg")
@@ -129,7 +129,7 @@
                 .col-lg-10.col-12.position-relative
                   img.mb-0.position-absolute.p-0.d-none.d-xl-block(style="width:201px; top:-115px; left:-85px; " src="@/assets/curso/tema1/img20.png")  
                   img.mb-0.position-absolute.d-xl-none(style="width:201px; top:-130px; left:20px;" src="@/assets/curso/tema1/img20.png")  
-                  h4 <i>DPOS</i> (Delegated Proof of Stake)
+                  h4 <i>DPOS (Delegated Proof of Stake)</i>
                   p.mb-lg-0.mb-3 Certificado de participación autorizado. Los poseedores de monedas pueden votar y elegir algunos nodos como representantes para llevar cuentas, similar al sistema del Congreso Nacional de Personas.
             .col-lg-3.col-10
               img.mb-0(src="@/assets/curso/tema1/img12.svg")
@@ -151,7 +151,7 @@
                 .col-lg-10.col-12.position-relative
                   img.mb-0.position-absolute.p-0.d-none.d-xl-block(style="width:201px; top:-115px; left:-85px; " src="@/assets/curso/tema1/img22.png")  
                   img.mb-0.position-absolute.d-xl-none(style="width:201px; top:-180px; left:20px;" src="@/assets/curso/tema1/img22.png")  
-                  h4 POI (Proof of Importance) 
+                  h4 <i>POI (Proof of Importance)</i>
                   p.mb-lg-0.mb-3 Prueba de importancia. Utiliza la puntuación de importancia de la cuenta para asignar la probabilidad de derechos de contabilidad.
             .col-lg-3.col-10
               img.mb-0(src="@/assets/curso/tema1/img14.svg")
@@ -164,7 +164,7 @@
                 .col-lg-10.col-12.position-relative
                   img.mb-0.position-absolute.p-0.d-none.d-xl-block(style="width:201px; top:-115px; left:-85px; " src="@/assets/curso/tema1/img23.png")  
                   img.mb-0.position-absolute.d-xl-none(style="width:201px; top:-350px; left:20px;" src="@/assets/curso/tema1/img23.png")  
-                  h4 POI (Proof of Participation) 
+                  h4 <i>POI (Proof of Participation) </i>
                   p.mb-0 Algoritmo de prueba de participación. Es un protocolo de consenso creado para reemplazar al conocido <i>Proof of Work</i> aportando una mejor seguridad y escalabilidad a las redes que lo implementen.
 
           .row.justify-content-center.align-items-center.mb-0.pt-4
@@ -178,7 +178,7 @@
             .col-lg-3.col-10
               img.mb-0(src="@/assets/curso/tema1/img16.svg")
 
-      p.mb-5 <b>Las principales ventajas y desventajas que hay en el uso del blockchain están (ver tabla 1):</b>
+      p.mb-5 <b>Las principales ventajas y desventajas que hay en el uso del <i>blockchain</i>:</b>
 
       .row.justify-content-center.align-items-center.mb-4.position-relative
         .col-lg-8.col-12  
@@ -190,7 +190,7 @@
                 caption Nota. SENA (2022).
                 thead(style="border-top: 0px solid;")
                   tr.cabecara-tabla                    
-                    th.text-white Desventajas
+                    th.text-white Ventajas
                     th.text-white Desventajas
                     
                 tbody
@@ -201,7 +201,7 @@
                     td(style="vertical-align: top;") Si un nodo cae, otro nodo puede tomar su lugar y reconstruir la red por completo.
                     td(style="vertical-align: top;") Entre más grande es la red, mayor latencia entre los nodos.          
                   tr
-                    td(style="vertical-align: top;") Permiten ofrecer a soluciones de escalabilidad potentes para ofrecer servicios de alcance global.]
+                    td(style="vertical-align: top;") Permiten ofrecer a soluciones de escalabilidad potentes para ofrecer servicios de alcance global.
                     td(style="vertical-align: top;") Sus protocolos cuentan con una serie de problemas estructurales conocidos que los hacen vulnerables a cierto tipo de ataques.    
                   tr
                     td(style="vertical-align: top;") Brinda una confianza mayor entre los usuarios. 
@@ -313,13 +313,12 @@
                   p.mb-0 Su nivel de confiabilidad permite a sectores como el medico implementarlo para salvaguardar registros confidenciales de pacientes.
 
         div(titulo="Hibrida, Federada o de Consorcio")
-          p.mb-4 Con estas redes se buscan reducir la dependencia de un nodo central, y busca que dependa de un grupos, consorcios o federaciones que busquen siempre la mejora de la misma red.
+          p.mb-4 Con estas redes se buscan reducir la dependencia de un nodo central, y busca que dependa de unos grupos, consorcios o federaciones que busquen siempre la mejora de la misma red.
           p.mb-4 A diferencia de las redes públicas, estas no permiten a ninguna persona con acceso a <i>internet</i> participar en el proceso de verificar transacciones. Las <i>blockchain</i> federadas son más rápidas (más escalabilidad) y proveen de más privacidad en las transacciones.
           p.mb-5 Entre los beneficios de este tipo de redes, están:
 
           .row.justify-content-center.align-items-center.mb-0
-            .col-lg-8.col-12
-              p.mb-4 Entre los beneficios de este tipo de redes, están:
+            .col-lg-8.col-12              
               ul.lista-ul--color.lista-ul--separador.mb-lg-0.mb-3
                 li 
                   i.fas.fa-pen-square.fa-lg
