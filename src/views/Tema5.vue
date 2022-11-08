@@ -384,7 +384,7 @@
         .col-lg-3.col-10
           img.mb-0(src="@/assets/curso/tema5/img100.png")
 
-    .fondo10.pt-5
+    .pt-5
       div.p-0.mb-5
         h4.mb-5.text-white.d-inline.p-3(style="background-color:#1565c0") <b>Desarrolladores</b>
       p.mb-5 No se podría dejar este campo por fuera, ya que son los creadores de los componentes de la red y es que se han venido incorporando soluciones que pueden ser tenidos en cuenta para fortalecer las cadenas del desarrollo de <i>software </i>seguro agregando soluciones basadas en esta tecnología. 
