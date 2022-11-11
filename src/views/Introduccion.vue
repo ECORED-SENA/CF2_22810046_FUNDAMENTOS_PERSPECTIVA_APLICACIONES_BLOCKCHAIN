@@ -18,8 +18,8 @@
             p.mb-0 Se da la bienvenida al componente formativo “<b>Soluciones para una arquitectura de <i>Blockchain</i></b>". Para comenzar el recorrido por el mismo, se debe visitar el recurso didáctico que se muestra a continuación:
     
     figure.mb-5(data-aos="fade-right") 
-      .video      
-        iframe(width="1280" height="720" src="https://www.youtube.com/embed/jX5sgilqogs" title="Soluciones para una arquitectura de Blockchain" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      .video            
+        iframe(width="1255" height="706" src="https://www.youtube.com/embed/oMom6ivFGDE" title="Soluciones para una Arquitectura de Blockchain" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)        
 
     p.mb-0 A continuación, se va a reconocer los tipos de redes de <i>blockchain</i> y la estructura de 6 capas que manejan actualmente.
 </template>

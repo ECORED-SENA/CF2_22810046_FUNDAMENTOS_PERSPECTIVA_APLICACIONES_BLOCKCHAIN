@@ -239,8 +239,9 @@ export default {
     },
     {
       referencia:
-        'Tudela, L (2019) Arquitectura <i>blockchain</i> para la securización de dispositivos <i>IOT</i> mediante <i>smart contracts</i>.',
-      link: 'http://castor.det.uvigo.es:8080/xmlui/handle/123456789/345 ',
+        'Caminero M., Gómez C., Carrión C. (2021), Aplicaciones de <i>blockchain</i> en <i>IoT</i> y computación en la niebla.',
+      link:
+        'https://revistas.ulima.edu.pe/index.php/CIIS/article/download/5548/5461/',
     },
     {
       referencia:
